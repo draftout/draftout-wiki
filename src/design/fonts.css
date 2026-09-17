@@ -1,0 +1,22 @@
+@font-face {
+  font-family: Minecraft;
+  src: url("./assets/MinecraftRegular.otf") format("opentype");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: Minecraft;
+  src: url("./assets/MinecraftBold.otf") format("opentype");
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Minecraft Controls";
+  src: url("./assets/MinecraftRegular.otf") format("opentype");
+  font-weight: 400;
+  font-display: swap;
+  ascent-override: 100%;
+  descent-override: 20%;
+  line-gap-override: 0%;
+}

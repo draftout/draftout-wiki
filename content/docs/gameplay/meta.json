@@ -1,0 +1,19 @@
+{
+  "title": "Gameplay",
+  "description": "Playing, drafting, ranks, replays, and custom matches.",
+  "icon": "Gamepad2",
+  "root": true,
+  "pages": [
+    "index",
+    "playing",
+    "drafting",
+    "ranks",
+    "seeds",
+    "standardization",
+    "lobbies",
+    "replays",
+    "settings",
+    "troubleshooting"
+  ],
+  "pagesIndex": "index"
+}

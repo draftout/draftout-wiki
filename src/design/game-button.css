@@ -1,0 +1,90 @@
+.game-button {
+  --game-face-current: var(--game-face, transparent);
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  min-height: var(--do-control-size);
+  padding: 0 14px 0 12px;
+  color: var(--do-control-text);
+  border-width: 8px 6px 6px 8px;
+  border-style: solid;
+  border-color: transparent;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: inset 0 0 0 100px var(--game-face-current);
+  font: 17px var(--do-font-display);
+  text-align: left;
+  text-decoration: none;
+  cursor: pointer;
+  image-rendering: pixelated;
+  transition:
+    color var(--do-control-duration) ease,
+    box-shadow var(--do-control-duration) ease;
+}
+.game-button-label {
+  font-family: var(--do-font-controls);
+}
+.game-button:is(:hover, :focus-visible):not(:disabled) {
+  --game-face-current: var(--game-face-hover, var(--do-control-hover-shade));
+  color: var(--do-hover);
+  box-shadow: inset 0 0 0 100px var(--game-face-hover, var(--do-control-hover-shade));
+}
+.game-button:active:not(:disabled) {
+  --game-face-current: var(--game-face-active, var(--do-control-press-shade));
+  box-shadow: inset 0 0 0 100px var(--game-face-active, var(--do-control-press-shade));
+}
+.game-button:is([aria-current="page"], [aria-pressed="true"], [data-tone="primary"]):not(
+    :disabled
+  ) {
+  color: var(--do-selected);
+}
+.game-button:focus-visible {
+  outline: 2px solid var(--do-hover);
+  outline-offset: 3px;
+}
+.game-button:disabled {
+  opacity: var(--do-control-disabled-opacity);
+  cursor: not-allowed;
+}
+
+.game-button[data-appearance="raised"],
+.game-button[data-appearance="raised"]:is(:hover, :focus-visible, :active) {
+  isolation: isolate;
+  border-image: none;
+  box-shadow: none;
+}
+.game-button-frame {
+  inset: -8px -6px -6px -8px;
+  z-index: -1;
+  --pixel-frame-tint: var(--game-face-current);
+}
+
+.game-button-inline-icon {
+  display: grid;
+  place-items: center;
+  flex: none;
+  color: var(--game-inline-icon-color, inherit);
+}
+.game-button:is(:hover, :focus-visible):not(:disabled) > .game-button-inline-icon {
+  color: var(--game-inline-icon-interaction-color, inherit);
+}
+.game-button-inline-icon :is(svg, img) {
+  display: block;
+  width: var(--do-icon-size);
+  height: var(--do-icon-size);
+  fill: currentColor;
+}
+.game-button[data-icon-layout="only"] {
+  width: var(--do-control-size);
+  height: var(--do-control-size);
+  flex: 0 0 var(--do-control-size);
+  justify-content: center;
+  padding: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .game-button {
+    transition: none;
+  }
+}

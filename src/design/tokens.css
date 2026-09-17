@@ -1,0 +1,23 @@
+:root {
+  --do-nav-background: rgba(12, 22, 30, 0.62);
+  --do-nav-blur: 16px;
+  --do-wiki-background-shade: linear-gradient(rgb(12 22 30 / 90%), rgb(12 22 30 / 96%));
+  --do-canvas: #101a22;
+  --do-surface: #253640;
+  --do-chrome: #0c161e;
+  --do-text: #f2f7fa;
+  --do-text-muted: #c0cdd5;
+  --do-control-text: #bdcdd1;
+  --do-border: #435763;
+  --do-selected: #55ffff;
+  --do-hover: #ffffff;
+  --do-font-display: Minecraft, monospace;
+  --do-font-controls: "Minecraft Controls", monospace;
+  --do-font-body: "DM Sans Variable", sans-serif;
+  --do-control-duration: 140ms;
+  --do-control-hover-shade: rgb(255 255 255 / 9%);
+  --do-control-press-shade: rgb(0 0 0 / 18%);
+  --do-control-disabled-opacity: 0.45;
+  --do-control-size: 44px;
+  --do-icon-size: 20px;
+}

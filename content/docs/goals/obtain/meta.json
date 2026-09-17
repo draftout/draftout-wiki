@@ -1,0 +1,15 @@
+{
+  "title": "Obtaining items",
+  "pages": [
+    "building-materials",
+    "bulk-stacks",
+    "collect-all-sets",
+    "decoration-lighting",
+    "other-obtainables",
+    "rails-minecarts",
+    "rare-valuable",
+    "redstone-mechanisms",
+    "unique-collections"
+  ],
+  "icon": "Boxes"
+}

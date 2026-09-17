@@ -1,0 +1,85 @@
+@import "./pixel-frame-textures.css";
+
+.pixel-frame {
+  --pixel-frame-top: 8px;
+  --pixel-frame-right: 6px;
+  --pixel-frame-bottom: 6px;
+  --pixel-frame-left: 8px;
+  position: absolute;
+  inset: 0;
+  display: grid;
+  grid-template-columns: var(--pixel-frame-left) minmax(0, 1fr) var(--pixel-frame-right);
+  grid-template-rows: var(--pixel-frame-top) minmax(0, 1fr) var(--pixel-frame-bottom);
+  border: 0;
+  padding: 0;
+  pointer-events: none;
+  contain: paint;
+  image-rendering: pixelated;
+}
+.pixel-frame > .pixel-frame-piece {
+  min-width: 0;
+  min-height: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+.pixel-frame-tl {
+  background-image: var(--pixel-frame-tl);
+}
+.pixel-frame-t {
+  background-image: var(--pixel-frame-t);
+}
+.pixel-frame-tr {
+  background-image: var(--pixel-frame-tr);
+  background-position: right top;
+}
+.pixel-frame-l {
+  background-image: var(--pixel-frame-l);
+}
+.pixel-frame-r {
+  background-image: var(--pixel-frame-r);
+  background-position: right top;
+}
+.pixel-frame-bl {
+  background-image: var(--pixel-frame-bl);
+  background-position: left bottom;
+}
+.pixel-frame-b {
+  background-image: var(--pixel-frame-b);
+  background-position: left bottom;
+}
+.pixel-frame-br {
+  background-image: var(--pixel-frame-br);
+  background-position: right bottom;
+}
+.pixel-frame[data-fill="true"] > .pixel-frame-c {
+  background: var(--pixel-frame-tint, transparent) var(--pixel-frame-c) repeat;
+}
+
+.pixel-frame-host {
+  position: relative;
+  border-image: none !important;
+  border-color: transparent !important;
+  border-style: solid;
+  border-width: var(--pixel-frame-host-top, 8px) 6px 6px 8px !important;
+  background-clip: padding-box !important;
+}
+.pixel-frame-host > .pixel-frame {
+  inset: calc(-1 * var(--pixel-frame-host-top, 8px)) -6px -6px -8px;
+  z-index: 1;
+  margin: 0;
+}
+
+.pixel-frame-align-content {
+  --frame-content-x: 0px;
+  --frame-content-y: -1px;
+}
+.pixel-frame-align-content > :not(.pixel-frame) {
+  translate: var(--frame-content-x) var(--frame-content-y);
+}
+.game-button.pixel-frame-align-content[data-icon-layout="only"] {
+  --frame-content-x: -1px;
+}

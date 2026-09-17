@@ -1,0 +1,19 @@
+@import "@fontsource-variable/dm-sans";
+@import "tailwindcss";
+@import "fumadocs-ui/css/neutral.css";
+@import "fumadocs-ui/css/preset.css";
+
+@import "./theme.css";
+
+@theme {
+  --font-sans: var(--do-font-body);
+}
+
+html {
+  scrollbar-gutter: stable;
+}
+
+html > body[data-scroll-locked] {
+  margin-right: 0px !important;
+  --removed-body-scroll-bar-size: 0px !important;
+}

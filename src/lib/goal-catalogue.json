@@ -1,0 +1,2318 @@
+{
+  "Get 10 Advancements": [
+    {
+      "label": "Obtain 10 Advancements",
+      "path": "/goal-icons/get_10_advancements/null/icon.webp"
+    }
+  ],
+  "Get 20 Advancements": [
+    {
+      "label": "Obtain 20 Advancements",
+      "path": "/goal-icons/get_20_advancements/null/icon.webp"
+    }
+  ],
+  "Get 30 Advancements": [
+    {
+      "label": "Obtain 30 Advancements",
+      "path": "/goal-icons/get_30_advancements/null/icon.webp"
+    }
+  ],
+  "Construct an Iron Golem": [
+    {
+      "label": "Construct an Iron Golem",
+      "path": "/goal-icons/get_hired_help_advancement/null/icon.webp"
+    }
+  ],
+  "Find a Stronghold": [
+    {
+      "label": "Find a Stronghold",
+      "path": "/goal-icons/get_eye_spy_advancement/null/icon.webp"
+    }
+  ],
+  "Fully charge a Respawn Anchor": [
+    {
+      "label": "Fully charge a Respawn Anchor",
+      "path": "/goal-icons/get_not_quite_nine_lives_advancement/null/icon.webp"
+    }
+  ],
+  "Get any Spyglass Advancement": [
+    {
+      "label": "Obtain any Spyglass Advancement",
+      "path": "/goal-icons/get_any_spyglass_advancement/null/icon.webp"
+    }
+  ],
+  "Obtain \"Bullseye\" Advancement": [
+    {
+      "label": "Obtain \"Bullseye\" Advancement",
+      "path": "/goal-icons/get_bullseye_advancement/null/icon.webp"
+    }
+  ],
+  "Obtain \"Mob Kabob\" Advancement": [
+    {
+      "label": "Obtain \"Mob Kabob\" Advancement",
+      "path": "/goal-icons/get_mob_kabob_advancement/null/icon.webp"
+    }
+  ],
+  "Obtain \"Oh Shiny\" Advancement": [
+    {
+      "label": "Obtain \"Oh Shiny\" Advancement",
+      "path": "/goal-icons/get_oh_shiny_advancement/null/icon.webp"
+    }
+  ],
+  "Obtain \"Sniper Duel\" Advancement": [
+    {
+      "label": "Obtain \"Sniper Duel\" Advancement",
+      "path": "/goal-icons/get_sniper_duel_advancement/null/icon.webp"
+    }
+  ],
+  "Obtain \"This boat has legs\" Advancement": [
+    {
+      "label": "Obtain \"This boat has legs\" Advancement",
+      "path": "/goal-icons/get_this_boat_has_legs_advancement/null/icon.webp"
+    }
+  ],
+  "Scrape wax off of Copper Block": [
+    {
+      "label": "Obtain \"Wax Off\" Advancement",
+      "path": "/goal-icons/get_wax_off_advancement/null/icon.webp"
+    }
+  ],
+  "Trade with a Villager": [
+    {
+      "label": "Trade with a Villager",
+      "path": "/goal-icons/get_what_a_deal_advancement/null/icon.webp"
+    }
+  ],
+  "Wax a Copper Block": [
+    {
+      "label": "Obtain \"Wax On\" Advancement",
+      "path": "/goal-icons/get_wax_on_advancement/null/icon.webp"
+    }
+  ],
+  "Find a Fortress": [
+    {
+      "label": "Find a Fortress",
+      "path": "/goal-icons/get_a_terrible_fortress_advancement/null/icon.webp"
+    }
+  ],
+  "Obtain \"The Power of Books\" Advancement": [
+    {
+      "label": "Obtain \"The Power of Books\" Advancement",
+      "path": "/goal-icons/get_power_of_books_advancement/null/icon.webp"
+    }
+  ],
+  "Obtain \"Stay Hydrated!\" Advancement": [
+    {
+      "label": "Obtain \"Stay Hydrated!\" Advancement",
+      "path": "/goal-icons/get_stay_hydrated_advancement/null/icon.webp"
+    }
+  ],
+  "Find an End City": [
+    {
+      "label": "Find an End City",
+      "path": "/goal-icons/get_the_city_at_the_end_of_the_game_advancement/null/icon.webp"
+    }
+  ],
+  "Find a Bastion": [
+    {
+      "label": "Find a Bastion",
+      "path": "/goal-icons/get_those_were_the_days_advancement/null/icon.webp"
+    }
+  ],
+  "Fill a Decorated Pot": [
+    {
+      "label": "Fill a Decorated Pot",
+      "path": "/goal-icons/fill_decorated_pot/null/icon.webp"
+    }
+  ],
+  "Fill an Armor Stand": [
+    {
+      "label": "Fill an Armor Stand",
+      "path": "/goal-icons/fill_armor_stand/null/icon.webp"
+    }
+  ],
+  "Fill Campfire with 4 Food Items": [
+    {
+      "label": "Fill Campfire with 4 Food Items",
+      "path": "/goal-icons/fill_campfire/null/icon.webp"
+    }
+  ],
+  "Fill Chiseled Bookshelf": [
+    {
+      "label": "Fill Chiseled Bookshelf",
+      "path": "/goal-icons/fill_chiseled_bookshelf/null/icon.webp"
+    }
+  ],
+  "Fill Composter and get Bone Meal": [
+    {
+      "label": "Fill Composter and get Bone Meal",
+      "path": "/goal-icons/use_composter/null/icon.webp"
+    }
+  ],
+  "Fill Inventory with unique items": [
+    {
+      "label": "Fill Inventory with unique items",
+      "path": "/goal-icons/fill_inventory_unique_items/null/icon.webp"
+    }
+  ],
+  "Mine Crafter": [
+    {
+      "label": "Mine Crafter",
+      "path": "/goal-icons/mine_crafter/null/icon.webp"
+    }
+  ],
+  "Mine Diamond Ore": [
+    {
+      "label": "Mine Diamond Ore",
+      "path": "/goal-icons/mine_diamond_ore/null/icon.webp"
+    }
+  ],
+  "Mine Emerald Ore": [
+    {
+      "label": "Mine Emerald Ore",
+      "path": "/goal-icons/mine_emerald_ore/null/icon.webp"
+    }
+  ],
+  "Mine Mob Spawner": [
+    {
+      "label": "Mine a Spawner",
+      "path": "/goal-icons/mine_mob_spawner/null/icon.webp"
+    }
+  ],
+  "Mine Turtle Egg": [
+    {
+      "label": "Mine Turtle Egg",
+      "path": "/goal-icons/mine_turtle_egg/null/icon.webp"
+    }
+  ],
+  "Mine 3 types of Ice": [
+    {
+      "label": "Mine 3 types of Ice",
+      "path": "/goal-icons/mine_3_types_of_ice/null/icon.webp"
+    }
+  ],
+  "Mine Obsidian": [
+    {
+      "label": "Mine Obsidian",
+      "path": "/goal-icons/mine_obsidian/null/icon.webp"
+    }
+  ],
+  "Use Anvil": [
+    {
+      "label": "Use Anvil",
+      "path": "/goal-icons/use_anvil/null/icon.webp"
+    }
+  ],
+  "Use Brewing Stand": [
+    {
+      "label": "Use Brewing Stand",
+      "path": "/goal-icons/use_brewing_stand/null/icon.webp"
+    }
+  ],
+  "Use Cauldron to wash something": [
+    {
+      "label": "Use Cauldron to wash something",
+      "path": "/goal-icons/use_cauldron/null/icon.webp"
+    }
+  ],
+  "Use Enchanting Table": [
+    {
+      "label": "Use Enchanting Table",
+      "path": "/goal-icons/use_enchanting_table/null/icon.webp"
+    }
+  ],
+  "Use Grindstone": [
+    {
+      "label": "Use Grindstone",
+      "path": "/goal-icons/use_grindstone/null/icon.webp"
+    }
+  ],
+  "Use Loom to design a Banner": [
+    {
+      "label": "Use Loom to design a Banner",
+      "path": "/goal-icons/use_loom/null/icon.webp"
+    }
+  ],
+  "Use Smithing Table": [
+    {
+      "label": "Use Smithing Table",
+      "path": "/goal-icons/use_smithing_table/null/icon.webp"
+    }
+  ],
+  "Use Stonecutter": [
+    {
+      "label": "Use Stonecutter",
+      "path": "/goal-icons/use_stonecutter/null/icon.webp"
+    }
+  ],
+  "Lock a Map using Cartography Table": [
+    {
+      "label": "Lock a Map using Catrography Table",
+      "path": "/goal-icons/lock_map/null/icon.webp"
+    }
+  ],
+  "Use Cartography Table": [
+    {
+      "label": "Use Catrography Table",
+      "path": "/goal-icons/use_cartography_table/null/icon.webp"
+    }
+  ],
+  "Brew a Lingering Potion": [
+    {
+      "label": "Brew a Lingering Potion",
+      "path": "/goal-icons/brew_lingering_potion/null/icon.webp"
+    }
+  ],
+  "Brew a Potion of Healing": [
+    {
+      "label": "Brew a Potion of Healing",
+      "path": "/goal-icons/brew_healing_potion/null/icon.webp"
+    }
+  ],
+  "Brew a Potion of Invisibility": [
+    {
+      "label": "Brew a Potion of Invisibility",
+      "path": "/goal-icons/brew_invisibility_potion/null/icon.webp"
+    }
+  ],
+  "Brew a Potion of Poison": [
+    {
+      "label": "Brew a Potion of Poison",
+      "path": "/goal-icons/brew_poison_potion/null/icon.webp"
+    }
+  ],
+  "Brew a Potion of Swiftness": [
+    {
+      "label": "Brew a Potion of Swiftness",
+      "path": "/goal-icons/brew_swiftness_potion/null/icon.webp"
+    }
+  ],
+  "Brew a Potion of Water Breathing": [
+    {
+      "label": "Brew a Potion of Water Breathing",
+      "path": "/goal-icons/brew_water_breathing_potion/null/icon.webp"
+    }
+  ],
+  "Brew a Potion of Weakness": [
+    {
+      "label": "Brew a Potion of Weakness",
+      "path": "/goal-icons/brew_weakness_potion/null/icon.webp"
+    }
+  ],
+  "Compost 3 Unique Foods": [
+    {
+      "label": "Compost 3 Unique Foods",
+      "path": "/goal-icons/compost_3_unique_foods/null/icon.webp"
+    }
+  ],
+  "Compost 5 Unique Foods": [
+    {
+      "label": "Compost 5 Unique Foods",
+      "path": "/goal-icons/compost_5_unique_foods/null/icon.webp"
+    }
+  ],
+  "Compost 7 Unique Foods": [
+    {
+      "label": "Compost 7 Unique Foods",
+      "path": "/goal-icons/compost_7_unique_foods/null/icon.webp"
+    }
+  ],
+  "Eat a Glow Berry": [
+    {
+      "label": "Eat a Glow Berry",
+      "path": "/goal-icons/eat_glow_berry/null/icon.webp"
+    }
+  ],
+  "Eat a Poisonous Potato": [
+    {
+      "label": "Eat a Poisonous Potato",
+      "path": "/goal-icons/eat_poisonous_potato/null/icon.webp"
+    }
+  ],
+  "Eat a slice of Cake": [
+    {
+      "label": "Eat a slice of Cake",
+      "path": "/goal-icons/eat_cake/null/icon.webp"
+    }
+  ],
+  "Eat Beetroot Soup": [
+    {
+      "label": "Eat Beetroot Soup",
+      "path": "/goal-icons/eat_beetroot_soup/null/icon.webp"
+    }
+  ],
+  "Eat Chorus Fruit": [
+    {
+      "label": "Eat Chorus Fruit",
+      "path": "/goal-icons/eat_chorus_fruit/null/icon.webp"
+    }
+  ],
+  "Eat Cookie": [
+    {
+      "label": "Eat Cookie",
+      "path": "/goal-icons/eat_cookie/null/icon.webp"
+    }
+  ],
+  "Eat every type of Soup": [
+    {
+      "label": "Eat every type of Soup",
+      "path": "/goal-icons/eat_all_soups/null/icon.webp"
+    }
+  ],
+  "Eat Pumpkin Pie": [
+    {
+      "label": "Eat Pumpkin Pie",
+      "path": "/goal-icons/eat_pumpkin_pie/null/icon.webp"
+    }
+  ],
+  "Eat Rabbit Stew": [
+    {
+      "label": "Eat Rabbit Stew",
+      "path": "/goal-icons/eat_rabbit_stew/null/icon.webp"
+    }
+  ],
+  "Eat Suspicious Stew": [
+    {
+      "label": "Eat Suspicious Stew",
+      "path": "/goal-icons/eat_suspicious_stew/null/icon.webp"
+    }
+  ],
+  "Drink Honey Bottle": [
+    {
+      "label": "Drink Honey Bottle",
+      "path": "/goal-icons/drink_honey_bottle/null/icon.webp"
+    }
+  ],
+  "Drink Water Bottle": [
+    {
+      "label": "Drink Water Bottle",
+      "path": "/goal-icons/drink_water_bottle/null/icon.webp"
+    }
+  ],
+  "Eat 10 Unique Food": [
+    {
+      "label": "Eat 10 Unique Food",
+      "path": "/goal-icons/eat_10_unique_food/null/icon.webp"
+    }
+  ],
+  "Eat 15 Unique Food": [
+    {
+      "label": "Eat 15 Unique Food",
+      "path": "/goal-icons/eat_15_unique_food/null/icon.webp"
+    }
+  ],
+  "Eat 20 Unique Food": [
+    {
+      "label": "Eat 20 Unique Food",
+      "path": "/goal-icons/eat_20_unique_food/null/icon.webp"
+    }
+  ],
+  "Eat 25 Unique Food": [
+    {
+      "label": "Eat 25 Unique Food",
+      "path": "/goal-icons/eat_25_unique_food/null/icon.webp"
+    }
+  ],
+  "Eat 5 Unique Food": [
+    {
+      "label": "Eat 5 Unique Food",
+      "path": "/goal-icons/eat_5_unique_food/null/icon.webp"
+    }
+  ],
+  "Die by Magic": [
+    {
+      "label": "Die by Magic",
+      "path": "/goal-icons/die_by_magic/null/icon.webp"
+    }
+  ],
+  "Die to Bee Sting": [
+    {
+      "label": "Die to Bee Sting",
+      "path": "/goal-icons/die_by_bee_sting/null/icon.webp"
+    }
+  ],
+  "Die to Iron Golem": [
+    {
+      "label": "Die to Iron Golem",
+      "path": "/goal-icons/die_by_iron_golem/null/icon.webp"
+    }
+  ],
+  "Die to Polar Bear": [
+    {
+      "label": "Die to Polar Bear",
+      "path": "/goal-icons/die_to_polar_bear/null/icon.webp"
+    }
+  ],
+  "Die to Pufferfish": [
+    {
+      "label": "Die to Pufferfish",
+      "path": "/goal-icons/die_to_pufferfish/null/icon.webp"
+    }
+  ],
+  "Die to Trident": [
+    {
+      "label": "Die to Trident",
+      "path": "/goal-icons/die_to_trident/null/icon.webp"
+    }
+  ],
+  "Die to Warden": [
+    {
+      "label": "Die to Warden",
+      "path": "/goal-icons/die_to_warden/null/icon.webp"
+    }
+  ],
+  "Die by Drowning": [
+    {
+      "label": "Die by Drowning",
+      "path": "/goal-icons/die_by_drowning/null/icon.webp"
+    }
+  ],
+  "Die by falling in Void": [
+    {
+      "label": "Die by falling in Void",
+      "path": "/goal-icons/die_to_void/null/icon.webp"
+    }
+  ],
+  "Die by falling off Vines": [
+    {
+      "label": "Die by falling off Vines",
+      "path": "/goal-icons/die_by_falling_off_vine/null/icon.webp"
+    }
+  ],
+  "Die by Freezing": [
+    {
+      "label": "Die by Freezing",
+      "path": "/goal-icons/freeze_to_death/null/icon.webp"
+    }
+  ],
+  "Die to [Intentional Game Design]": [
+    {
+      "label": "Die to [Intentional Game Design]",
+      "path": "/goal-icons/die_by_intentional_game_design/null/icon.webp"
+    }
+  ],
+  "Die to Berry Bush": [
+    {
+      "label": "Die to Berry Bush",
+      "path": "/goal-icons/die_by_berry_bush/null/icon.webp"
+    }
+  ],
+  "Die to Cactus": [
+    {
+      "label": "Die to Cactus",
+      "path": "/goal-icons/die_by_cactus/null/icon.webp"
+    }
+  ],
+  "Die to falling Anvil": [
+    {
+      "label": "Die to falling Anvil",
+      "path": "/goal-icons/die_by_anvil/null/icon.webp"
+    }
+  ],
+  "Die to Falling Stalactite": [
+    {
+      "label": "Die to Falling Stalactite",
+      "path": "/goal-icons/die_by_falling_stalactite/null/icon.webp"
+    }
+  ],
+  "Die to Firework Rocket": [
+    {
+      "label": "Die to Firework Rocket",
+      "path": "/goal-icons/die_by_firework/null/icon.webp"
+    }
+  ],
+  "Die to TNT Minecart": [
+    {
+      "label": "Die to TNT Minecart",
+      "path": "/goal-icons/die_by_tnt_minecart/null/icon.webp"
+    }
+  ],
+  "Enter Nether": [
+    {
+      "label": "Enter Nether",
+      "path": "/goal-icons/enter_nether/null/icon.webp"
+    }
+  ],
+  "Enter The End": [
+    {
+      "label": "Enter The End",
+      "path": "/goal-icons/enter_end/null/icon.webp"
+    }
+  ],
+  "Visit All Nether Biomes": [
+    {
+      "label": "Visit All Nether Biomes",
+      "path": "/goal-icons/visit_all_nether_biomes/null/icon.webp"
+    }
+  ],
+  "Teleport through Nether Portal using Ender Pearl": [
+    {
+      "label": "Teleport through Nether Portal using Ender Pearl",
+      "path": "/goal-icons/pearl_through_nether_portal/null/icon.webp"
+    }
+  ],
+  "Visit all Cave Biomes": [
+    {
+      "label": "Visit all Cave Biomes",
+      "path": "/goal-icons/visit_all_cave_biomes/null/icon.webp"
+    }
+  ],
+  "Get on Nether Roof": [
+    {
+      "label": "Get on Nether Roof",
+      "path": "/goal-icons/reach_nether_roof/null/icon.webp"
+    }
+  ],
+  "Reach Bedrock": [
+    {
+      "label": "Reach Bedrock",
+      "path": "/goal-icons/reach_bedrock/null/icon.webp"
+    }
+  ],
+  "Reach height limit in Overworld": [
+    {
+      "label": "Reach height limit",
+      "path": "/goal-icons/reach_height_limit/null/icon.webp"
+    }
+  ],
+  "Kill 100 mobs": [
+    {
+      "label": "Kill 100 mobs",
+      "path": "/goal-icons/kill_100_mobs/null/icon.webp"
+    }
+  ],
+  "Kill 20 Arthropods": [
+    {
+      "label": "Kill 20 Arthropods",
+      "path": "/goal-icons/kill_20_arthropod_mobs/null/icon.webp"
+    }
+  ],
+  "Kill 30 Undead Mobs": [
+    {
+      "label": "Kill 30 Undead Mobs",
+      "path": "/goal-icons/kill_30_undead_mobs/null/icon.webp"
+    }
+  ],
+  "Kill all Raid Mobs": [
+    {
+      "label": "Kill all Raid Mobs",
+      "path": "/goal-icons/kill_all_raid_mobs/null/icon.webp"
+    }
+  ],
+  "Kill 10 Unique Hostile Mobs": [
+    {
+      "label": "Kill 10 Unique Hostile Mobs",
+      "path": "/goal-icons/kill_10_unique_hostile_mobs/null/icon.webp"
+    }
+  ],
+  "Kill 13 Unique Hostile Mobs": [
+    {
+      "label": "Kill 13 Unique Hostile Mobs",
+      "path": "/goal-icons/kill_13_unique_hostile_mobs/null/icon.webp"
+    }
+  ],
+  "Kill 15 Unique Hostile Mobs": [
+    {
+      "label": "Kill 15 Unique Hostile Mobs",
+      "path": "/goal-icons/kill_15_unique_hostile_mobs/null/icon.webp"
+    }
+  ],
+  "Kill 7 Unique Hostile Mobs": [
+    {
+      "label": "Kill 7 Unique Hostile Mobs",
+      "path": "/goal-icons/kill_7_unique_hostile_mobs/null/icon.webp"
+    }
+  ],
+  "Kill Bat": [
+    {
+      "label": "Kill Bat",
+      "path": "/goal-icons/kill_bat/null/icon.webp"
+    }
+  ],
+  "Kill Colored Sheep": [
+    {
+      "label": "Kill Blue Sheep",
+      "path": "/goal-icons/kill_colored_sheep/blue/icon.webp"
+    },
+    {
+      "label": "Kill Light Blue Sheep",
+      "path": "/goal-icons/kill_colored_sheep/light_blue/icon.webp"
+    },
+    {
+      "label": "Kill Orange Sheep",
+      "path": "/goal-icons/kill_colored_sheep/orange/icon.webp"
+    },
+    {
+      "label": "Kill Red Sheep",
+      "path": "/goal-icons/kill_colored_sheep/red/icon.webp"
+    },
+    {
+      "label": "Kill Yellow Sheep",
+      "path": "/goal-icons/kill_colored_sheep/yellow/icon.webp"
+    },
+    {
+      "label": "Kill Magenta Sheep",
+      "path": "/goal-icons/kill_colored_sheep/magenta/icon.webp"
+    },
+    {
+      "label": "Kill Purple Sheep",
+      "path": "/goal-icons/kill_colored_sheep/purple/icon.webp"
+    },
+    {
+      "label": "Kill Green Sheep",
+      "path": "/goal-icons/kill_colored_sheep/green/icon.webp"
+    },
+    {
+      "label": "Kill Lime Sheep",
+      "path": "/goal-icons/kill_colored_sheep/lime/icon.webp"
+    },
+    {
+      "label": "Kill Cyan Sheep",
+      "path": "/goal-icons/kill_colored_sheep/cyan/icon.webp"
+    }
+  ],
+  "Kill Bogged": [
+    {
+      "label": "Kill Bogged",
+      "path": "/goal-icons/kill_bogged/null/icon.webp"
+    }
+  ],
+  "Kill Breeze using Wind Charge": [
+    {
+      "label": "Kill Breeze using Wind Charge",
+      "path": "/goal-icons/kill_breeze_using_wind_charge/null/icon.webp"
+    }
+  ],
+  "Kill Elder Guardian": [
+    {
+      "label": "Kill Elder Guardian",
+      "path": "/goal-icons/kill_elder_guardian/null/icon.webp"
+    }
+  ],
+  "Kill Guardian": [
+    {
+      "label": "Kill Guardian",
+      "path": "/goal-icons/kill_guardian/null/icon.webp"
+    }
+  ],
+  "Kill Parched": [
+    {
+      "label": "Kill Parched",
+      "path": "/goal-icons/kill_parched/null/icon.webp"
+    }
+  ],
+  "Kill Pillager using Crossbow": [
+    {
+      "label": "Kill Pillager using Crossbow",
+      "path": "/goal-icons/kill_pillager_using_crossbow/null/icon.webp"
+    }
+  ],
+  "Kill Silverfish": [
+    {
+      "label": "Kill Silverfish",
+      "path": "/goal-icons/kill_silverfish/null/icon.webp"
+    }
+  ],
+  "Kill Snow Golem": [
+    {
+      "label": "Kill Snow Golem",
+      "path": "/goal-icons/kill_snow_golem/null/icon.webp"
+    }
+  ],
+  "Kill Snow Golem in The Nether": [
+    {
+      "label": "Kill Snow Golem in The Nether",
+      "path": "/goal-icons/kill_snow_golem_in_nether/null/icon.webp"
+    }
+  ],
+  "Kill Stray": [
+    {
+      "label": "Kill Stray",
+      "path": "/goal-icons/kill_stray/null/icon.webp"
+    }
+  ],
+  "Kill Warden": [
+    {
+      "label": "Kill Warden",
+      "path": "/goal-icons/kill_warden/null/icon.webp"
+    }
+  ],
+  "Kill Witch": [
+    {
+      "label": "Kill Witch",
+      "path": "/goal-icons/kill_witch/null/icon.webp"
+    }
+  ],
+  "Kill Zoglin": [
+    {
+      "label": "Kill Zoglin",
+      "path": "/goal-icons/kill_zoglin/null/icon.webp"
+    }
+  ],
+  "Kill Zombie Villager": [
+    {
+      "label": "Kill Zombie Villager",
+      "path": "/goal-icons/kill_zombie_villager/null/icon.webp"
+    }
+  ],
+  "Kill Ghast": [
+    {
+      "label": "Kill Ghast",
+      "path": "/goal-icons/kill_ghast/null/icon.webp"
+    }
+  ],
+  "Kill Husk": [
+    {
+      "label": "Kill Husk",
+      "path": "/goal-icons/kill_husk/null/icon.webp"
+    }
+  ],
+  "Construct a Copper Golem": [
+    {
+      "label": "Construct a Copper Golem",
+      "path": "/goal-icons/construct_copper_golem/null/icon.webp"
+    }
+  ],
+  "Craft 100 Unique Items": [
+    {
+      "label": "Craft 100 Unique Items",
+      "path": "/goal-icons/craft_100_unique_items/null/icon.webp"
+    }
+  ],
+  "Craft 20 Unique Items": [
+    {
+      "label": "Craft 20 Unique Items",
+      "path": "/goal-icons/craft_20_unique_items/null/icon.webp"
+    }
+  ],
+  "Craft 50 Unique Items": [
+    {
+      "label": "Craft 50 Unique Items",
+      "path": "/goal-icons/craft_50_unique_items/null/icon.webp"
+    }
+  ],
+  "Decorate Shield with Banner": [
+    {
+      "label": "Decorate Shield with Banner",
+      "path": "/goal-icons/put_banner_on_shield/null/icon.webp"
+    }
+  ],
+  "Light a Candle": [
+    {
+      "label": "Light a Candle",
+      "path": "/goal-icons/light_candle/null/icon.webp"
+    }
+  ],
+  "Pot any plant in Flower Pot": [
+    {
+      "label": "Pot any plant in Flower Pot",
+      "path": "/goal-icons/put_flower_in_pot/null/icon.webp"
+    }
+  ],
+  "Put Item Frame in an Item Frame": [
+    {
+      "label": "Put Item Frame in an Item Frame",
+      "path": "/goal-icons/item_frame_in_item_frame/null/icon.webp"
+    }
+  ],
+  "Use Glow Ink on Crimson Sign": [
+    {
+      "label": "Use Glow Ink on Crimson Sign",
+      "path": "/goal-icons/use_glow_ink_crimson/null/icon.webp"
+    }
+  ],
+  "Use Glow Ink on Warped Sign": [
+    {
+      "label": "Use Glow Ink on Warped Sign",
+      "path": "/goal-icons/use_glow_ink_warped/null/icon.webp"
+    }
+  ],
+  "Duplicate any Armor Trim": [
+    {
+      "label": "Duplicate any Armor Trim",
+      "path": "/goal-icons/craft_armor_trim/null/icon.webp"
+    }
+  ],
+  "Name a Sheep 'jeb_'": [
+    {
+      "label": "Name a Sheep 'jeb_'",
+      "path": "/goal-icons/name_sheep_jeb/null/icon.webp"
+    }
+  ],
+  "Place a Hanging Sign": [
+    {
+      "label": "Place a Hanging Sign",
+      "path": "/goal-icons/place_hanging_sign/null/icon.webp"
+    }
+  ],
+  "Place Painting": [
+    {
+      "label": "Place Painting",
+      "path": "/goal-icons/place_painting/null/icon.webp"
+    }
+  ],
+  "Use Glow Ink on Crimson or Warped Sign": [
+    {
+      "label": "Use Glow Ink on Crimson or Warped Sign",
+      "path": "/goal-icons/use_glow_ink_nether/null/icon.webp"
+    }
+  ],
+  "Enrage Enderman": [
+    {
+      "label": "Enrage Enderman",
+      "path": "/goal-icons/enrage_enderman/null/icon.webp"
+    }
+  ],
+  "Enrage Zombified Piglin": [
+    {
+      "label": "Enrage Zombified Piglin",
+      "path": "/goal-icons/enrage_zombified_piglin/null/icon.webp"
+    }
+  ],
+  "Name a Ghast 'Dinnerbone'": [
+    {
+      "label": "Name a Ghast 'Dinnerbone'",
+      "path": "/goal-icons/turn_ghast_upside_down/null/icon.webp"
+    }
+  ],
+  "Name an Iron Golem 'Dinnerbone'": [
+    {
+      "label": "Name an Iron Golem 'Dinnerbone'",
+      "path": "/goal-icons/turn_iron_golem_upside_down/null/icon.webp"
+    }
+  ],
+  "Duplicate Allay": [
+    {
+      "label": "Duplicate Allay",
+      "path": "/goal-icons/duplicate_allay/null/icon.webp"
+    }
+  ],
+  "Break any Armor Piece": [
+    {
+      "label": "Break any Armor Piece",
+      "path": "/goal-icons/break_any_armor/null/icon.webp"
+    }
+  ],
+  "Empty Hunger Bar": [
+    {
+      "label": "Empty Hunger Bar",
+      "path": "/goal-icons/empty_hunger_bar/null/icon.webp"
+    }
+  ],
+  "Explode End Crystal": [
+    {
+      "label": "Explode End Crystal",
+      "path": "/goal-icons/explode_end_crystal/null/icon.webp"
+    }
+  ],
+  "Play a Music Disc in Jukebox": [
+    {
+      "label": "Play a Music Disc in Jukebox",
+      "path": "/goal-icons/use_jukebox/null/icon.webp"
+    }
+  ],
+  "Toot a Goat Horn": [
+    {
+      "label": "Toot a Goat Horn",
+      "path": "/goal-icons/toot_goat_horn/null/icon.webp"
+    }
+  ],
+  "Tune a Note Block": [
+    {
+      "label": "Tune a Note Block",
+      "path": "/goal-icons/tune_noteblock/null/icon.webp"
+    }
+  ],
+  "Breed Armadillos": [
+    {
+      "label": "Breed Armadillos",
+      "path": "/goal-icons/breed_armadillo/null/icon.webp"
+    }
+  ],
+  "Breed Camels": [
+    {
+      "label": "Breed Camels",
+      "path": "/goal-icons/breed_camel/null/icon.webp"
+    }
+  ],
+  "Breed Chickens": [
+    {
+      "label": "Breed Chickens",
+      "path": "/goal-icons/breed_chicken/null/icon.webp"
+    }
+  ],
+  "Breed Cows": [
+    {
+      "label": "Breed Cows",
+      "path": "/goal-icons/breed_cow/null/icon.webp"
+    }
+  ],
+  "Breed Foxes": [
+    {
+      "label": "Breed Foxes",
+      "path": "/goal-icons/breed_fox/null/icon.webp"
+    }
+  ],
+  "Breed Frogs": [
+    {
+      "label": "Breed Frogs",
+      "path": "/goal-icons/breed_frogs/null/icon.webp"
+    }
+  ],
+  "Breed Goats": [
+    {
+      "label": "Breed Goats",
+      "path": "/goal-icons/breed_goat/null/icon.webp"
+    }
+  ],
+  "Breed Hoglins": [
+    {
+      "label": "Breed Hoglins",
+      "path": "/goal-icons/breed_hoglin/null/icon.webp"
+    }
+  ],
+  "Breed Pigs": [
+    {
+      "label": "Breed Pigs",
+      "path": "/goal-icons/breed_pig/null/icon.webp"
+    }
+  ],
+  "Breed Rabbits": [
+    {
+      "label": "Breed Rabbits",
+      "path": "/goal-icons/breed_rabbit/null/icon.webp"
+    }
+  ],
+  "Breed Sheep": [
+    {
+      "label": "Breed Sheep",
+      "path": "/goal-icons/breed_sheep/null/icon.webp"
+    }
+  ],
+  "Breed Striders": [
+    {
+      "label": "Breed Striders",
+      "path": "/goal-icons/breed_strider/null/icon.webp"
+    }
+  ],
+  "Feed Golden Dandelion to any Baby Mob": [
+    {
+      "label": "Feed Golden Dandelion to any Baby Mob",
+      "path": "/goal-icons/use_golden_dandelion/null/icon.webp"
+    }
+  ],
+  "Breed 4 Unique Animals": [
+    {
+      "label": "Breed 4 Unique Animals",
+      "path": "/goal-icons/breed_4_unique_animals/null/icon.webp"
+    }
+  ],
+  "Breed 6 Unique Animals": [
+    {
+      "label": "Breed 6 Unique Animals",
+      "path": "/goal-icons/breed_6_unique_animals/null/icon.webp"
+    }
+  ],
+  "Breed 8 Unique Animals": [
+    {
+      "label": "Breed 8 Unique Animals",
+      "path": "/goal-icons/breed_8_unique_animals/null/icon.webp"
+    }
+  ],
+  "Leash 4 unique Mobs at once": [
+    {
+      "label": "Leash 4 unique Mobs at once",
+      "path": "/goal-icons/leash_4_unique_mobs/null/icon.webp"
+    }
+  ],
+  "Leash 6 unique Mobs at once": [
+    {
+      "label": "Leash 6 unique Mobs at once",
+      "path": "/goal-icons/leash_6_unique_mobs/null/icon.webp"
+    }
+  ],
+  "Leash 8 unique Mobs at once": [
+    {
+      "label": "Leash 8 unique Mobs at once",
+      "path": "/goal-icons/leash_8_unique_mobs/null/icon.webp"
+    }
+  ],
+  "Leash an Iron Golem": [
+    {
+      "label": "Leash an Iron Golem",
+      "path": "/goal-icons/leash_iron_golem/null/icon.webp"
+    }
+  ],
+  "Ride a Minecart": [
+    {
+      "label": "Ride a Minecart",
+      "path": "/goal-icons/ride_minecart/null/icon.webp"
+    }
+  ],
+  "Ride Pig with Carrot on a Stick": [
+    {
+      "label": "Use Carrot on a Stick to boost a Pig",
+      "path": "/goal-icons/ride_pig/null/icon.webp"
+    }
+  ],
+  "Ride a Horse": [
+    {
+      "label": "Ride a Horse",
+      "path": "/goal-icons/ride_horse/null/icon.webp"
+    }
+  ],
+  "Tame a Cat": [
+    {
+      "label": "Tame a Cat",
+      "path": "/goal-icons/tame_cat/null/icon.webp"
+    }
+  ],
+  "Tame a Horse": [
+    {
+      "label": "Tame a Horse",
+      "path": "/goal-icons/tame_horse/null/icon.webp"
+    }
+  ],
+  "Tame a Nautilus": [
+    {
+      "label": "Tame a Nautilus",
+      "path": "/goal-icons/tame_nautilus/null/icon.webp"
+    }
+  ],
+  "Tame a Parrot": [
+    {
+      "label": "Tame a Parrot",
+      "path": "/goal-icons/tame_parrot/null/icon.webp"
+    }
+  ],
+  "Tame a Wolf": [
+    {
+      "label": "Tame a Wolf",
+      "path": "/goal-icons/tame_wolf/null/icon.webp"
+    }
+  ],
+  "Obtain Brick Wall": [
+    {
+      "label": "Obtain Brick Wall",
+      "path": "/goal-icons/obtain_brick_wall/null/icon.webp"
+    }
+  ],
+  "Obtain Mossy Stone Brick Wall": [
+    {
+      "label": "Obtain Mossy Stone Brick Wall",
+      "path": "/goal-icons/obtain_mossy_stone_brick_wall/null/icon.webp"
+    }
+  ],
+  "Obtain Mud Brick Wall": [
+    {
+      "label": "Obtain Mud Brick Wall",
+      "path": "/goal-icons/obtain_mud_brick_wall/null/icon.webp"
+    }
+  ],
+  "Obtain Red Nether Brick Stairs": [
+    {
+      "label": "Obtain Red Nether Brick Stairs",
+      "path": "/goal-icons/obtain_red_nether_brick_stairs/null/icon.webp"
+    }
+  ],
+  "Obtain Scaffolding": [
+    {
+      "label": "Obtain Scaffolding",
+      "path": "/goal-icons/obtain_scaffolding/null/icon.webp"
+    }
+  ],
+  "Obtain Tinted Glass": [
+    {
+      "label": "Obtain Tinted Glass",
+      "path": "/goal-icons/obtain_tinted_glass/null/icon.webp"
+    }
+  ],
+  "Obtain Bone Block": [
+    {
+      "label": "Obtain Bone Block",
+      "path": "/goal-icons/obtain_bone_block/null/icon.webp"
+    }
+  ],
+  "Obtain Block of Resin": [
+    {
+      "label": "Obtain Block of Resin",
+      "path": "/goal-icons/obtain_resin_block/null/icon.webp"
+    }
+  ],
+  "Obtain Resin Brick Wall": [
+    {
+      "label": "Obtain Resin Brick Wall",
+      "path": "/goal-icons/obtain_resin_brick_wall/null/icon.webp"
+    }
+  ],
+  "Obtain Smooth Basalt": [
+    {
+      "label": "Obtain Smooth Basalt",
+      "path": "/goal-icons/obtain_smooth_basalt/null/icon.webp"
+    }
+  ],
+  "Obtain Smooth Quartz Stairs": [
+    {
+      "label": "Obtain Smooth Quartz Stairs",
+      "path": "/goal-icons/obtain_smooth_quartz_stairs/null/icon.webp"
+    }
+  ],
+  "Obtain 64 Arrows": [
+    {
+      "label": "Obtain 64 Arrows",
+      "path": "/goal-icons/obtain_64_arrows/null/icon.webp"
+    }
+  ],
+  "Obtain 64 Colored Concrete": [
+    {
+      "label": "Obtain 64 Black Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/black/icon.webp"
+    },
+    {
+      "label": "Obtain 64 White Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/white/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Gray Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/gray/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Light Gray Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/light_gray/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Blue Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/blue/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Light Blue Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/light_blue/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Orange Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/orange/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Red Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/red/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Yellow Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/yellow/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Magenta Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/magenta/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Pink Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/pink/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Purple Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/purple/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Green Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/green/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Lime Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/lime/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Cyan Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/cyan/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Brown Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/brown/icon.webp"
+    }
+  ],
+  "Obtain 64 Colored Wool": [
+    {
+      "label": "Obtain 64 Black Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/black/icon.webp"
+    },
+    {
+      "label": "Obtain 64 White Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/white/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Gray Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/gray/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Light Gray Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/light_gray/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Blue Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/blue/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Light Blue Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/light_blue/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Orange Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/orange/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Red Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/red/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Yellow Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/yellow/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Magenta Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/magenta/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Pink Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/pink/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Purple Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/purple/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Green Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/green/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Lime Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/lime/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Cyan Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/cyan/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Brown Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/brown/icon.webp"
+    }
+  ],
+  "Obtain 64 Coarse Dirt": [
+    {
+      "label": "Obtain 64 Coarse Dirt",
+      "path": "/goal-icons/obtain_64_coarse_dirt/null/icon.webp"
+    }
+  ],
+  "Obtain 32 Arrows": [
+    {
+      "label": "Obtain 32 Arrows",
+      "path": "/goal-icons/obtain_32_arrows/null/icon.webp"
+    }
+  ],
+  "Obtain a stack of any Item": [
+    {
+      "label": "Obtain a stack of any Item",
+      "path": "/goal-icons/obtain_stack_of_64/null/icon.webp"
+    }
+  ],
+  "Obtain every type of Furnace": [
+    {
+      "label": "Obtain every type of Furnace",
+      "path": "/goal-icons/obtain_all_furnaces/null/icon.webp"
+    }
+  ],
+  "Obtain every type of Mushroom": [
+    {
+      "label": "Obtain every type of Mushroom",
+      "path": "/goal-icons/obtain_all_mushrooms/null/icon.webp"
+    }
+  ],
+  "Obtain every type of Pumpkin": [
+    {
+      "label": "Obtain every type of Pumpkin",
+      "path": "/goal-icons/obtain_all_pumpkins/null/icon.webp"
+    }
+  ],
+  "Obtain every type of Raw Ore Block": [
+    {
+      "label": "Obtain every type of Raw Ore Block",
+      "path": "/goal-icons/obtain_all_raw_ore_blocks/null/icon.webp"
+    }
+  ],
+  "Obtain every type of Torch": [
+    {
+      "label": "Obtain every type of Torch",
+      "path": "/goal-icons/obtain_all_torches/null/icon.webp"
+    }
+  ],
+  "Obtain Bell": [
+    {
+      "label": "Obtain Bell",
+      "path": "/goal-icons/obtain_bell/null/icon.webp"
+    }
+  ],
+  "Obtain Colored Glazed Terracotta": [
+    {
+      "label": "Obtain Black Glazed Terracotta",
+      "path": "/goal-icons/obtain_colored_glazed_terracotta/black/icon.webp"
+    },
+    {
+      "label": "Obtain White Glazed Terracotta",
+      "path": "/goal-icons/obtain_colored_glazed_terracotta/white/icon.webp"
+    },
+    {
+      "label": "Obtain Gray Glazed Terracotta",
+      "path": "/goal-icons/obtain_colored_glazed_terracotta/gray/icon.webp"
+    },
+    {
+      "label": "Obtain Light Gray Glazed Terracotta",
+      "path": "/goal-icons/obtain_colored_glazed_terracotta/light_gray/icon.webp"
+    },
+    {
+      "label": "Obtain Blue Glazed Terracotta",
+      "path": "/goal-icons/obtain_colored_glazed_terracotta/blue/icon.webp"
+    },
+    {
+      "label": "Obtain Light Blue Glazed Terracotta",
+      "path": "/goal-icons/obtain_colored_glazed_terracotta/light_blue/icon.webp"
+    },
+    {
+      "label": "Obtain Orange Glazed Terracotta",
+      "path": "/goal-icons/obtain_colored_glazed_terracotta/orange/icon.webp"
+    },
+    {
+      "label": "Obtain Red Glazed Terracotta",
+      "path": "/goal-icons/obtain_colored_glazed_terracotta/red/icon.webp"
+    },
+    {
+      "label": "Obtain Yellow Glazed Terracotta",
+      "path": "/goal-icons/obtain_colored_glazed_terracotta/yellow/icon.webp"
+    },
+    {
+      "label": "Obtain Magenta Glazed Terracotta",
+      "path": "/goal-icons/obtain_colored_glazed_terracotta/magenta/icon.webp"
+    },
+    {
+      "label": "Obtain Pink Glazed Terracotta",
+      "path": "/goal-icons/obtain_colored_glazed_terracotta/pink/icon.webp"
+    },
+    {
+      "label": "Obtain Purple Glazed Terracotta",
+      "path": "/goal-icons/obtain_colored_glazed_terracotta/purple/icon.webp"
+    },
+    {
+      "label": "Obtain Green Glazed Terracotta",
+      "path": "/goal-icons/obtain_colored_glazed_terracotta/green/icon.webp"
+    },
+    {
+      "label": "Obtain Lime Glazed Terracotta",
+      "path": "/goal-icons/obtain_colored_glazed_terracotta/lime/icon.webp"
+    },
+    {
+      "label": "Obtain Cyan Glazed Terracotta",
+      "path": "/goal-icons/obtain_colored_glazed_terracotta/cyan/icon.webp"
+    },
+    {
+      "label": "Obtain Brown Glazed Terracotta",
+      "path": "/goal-icons/obtain_colored_glazed_terracotta/brown/icon.webp"
+    }
+  ],
+  "Obtain Bookshelf": [
+    {
+      "label": "Obtain Bookshelf",
+      "path": "/goal-icons/obtain_bookshelf/null/icon.webp"
+    }
+  ],
+  "Obtain Clock": [
+    {
+      "label": "Obtain Clock",
+      "path": "/goal-icons/obtain_clock/null/icon.webp"
+    }
+  ],
+  "Obtain Dead Bush": [
+    {
+      "label": "Obtain Dead Bush",
+      "path": "/goal-icons/obtain_dead_bush/null/icon.webp"
+    }
+  ],
+  "Obtain End Rod": [
+    {
+      "label": "Obtain End Rod",
+      "path": "/goal-icons/obtain_end_rod/null/icon.webp"
+    }
+  ],
+  "Obtain Flowering Azalea": [
+    {
+      "label": "Obtain Flowering Azalea",
+      "path": "/goal-icons/obtain_flowering_azalea/null/icon.webp"
+    }
+  ],
+  "Obtain Soul Campfire": [
+    {
+      "label": "Obtain Soul Campfire",
+      "path": "/goal-icons/obtain_soul_campfire/null/icon.webp"
+    }
+  ],
+  "Obtain Soul Lantern": [
+    {
+      "label": "Obtain Soul Lantern",
+      "path": "/goal-icons/obtain_soul_lantern/null/icon.webp"
+    }
+  ],
+  "Obtain 16 Glow Lichen": [
+    {
+      "label": "Obtain 16 Glow Lichen",
+      "path": "/goal-icons/obtain_16_glow_lichen/null/icon.webp"
+    }
+  ],
+  "Obtain Bucket of Tropical Fish": [
+    {
+      "label": "Obtain Bucket of Tropical Fish",
+      "path": "/goal-icons/obtain_tropical_fish_bucket/null/icon.webp"
+    }
+  ],
+  "Obtain Cobweb": [
+    {
+      "label": "Obtain Cobweb",
+      "path": "/goal-icons/obtain_cobweb/null/icon.webp"
+    }
+  ],
+  "Obtain Dried Kelp Block": [
+    {
+      "label": "Obtain Dried Kelp Block",
+      "path": "/goal-icons/obtain_dried_kelp_block/null/icon.webp"
+    }
+  ],
+  "Obtain Pottery Sherd": [
+    {
+      "label": "Obtain Pottery Sherd",
+      "path": "/goal-icons/obtain_pottery_sherd/null/icon.webp"
+    }
+  ],
+  "Obtain Powder Snow Bucket": [
+    {
+      "label": "Obtain Powder Snow Bucket",
+      "path": "/goal-icons/obtain_powder_snow_bucket/null/icon.webp"
+    }
+  ],
+  "Obtain Sponge": [
+    {
+      "label": "Obtain Sponge",
+      "path": "/goal-icons/obtain_sponge/null/icon.webp"
+    }
+  ],
+  "Obtain Suspicious Block": [
+    {
+      "label": "Obtain Suspicious Sand/Gravel",
+      "path": "/goal-icons/obtain_suspicious_block/null/icon.webp"
+    }
+  ],
+  "Write a Book": [
+    {
+      "label": "Write a Book",
+      "path": "/goal-icons/obtain_written_book/null/icon.webp"
+    }
+  ],
+  "Obtain Colored Harness": [
+    {
+      "label": "Obtain Black Harness",
+      "path": "/goal-icons/obtain_colored_harness/black/icon.webp"
+    },
+    {
+      "label": "Obtain White Harness",
+      "path": "/goal-icons/obtain_colored_harness/white/icon.webp"
+    },
+    {
+      "label": "Obtain Gray Harness",
+      "path": "/goal-icons/obtain_colored_harness/gray/icon.webp"
+    },
+    {
+      "label": "Obtain Light Gray Harness",
+      "path": "/goal-icons/obtain_colored_harness/light_gray/icon.webp"
+    },
+    {
+      "label": "Obtain Blue Harness",
+      "path": "/goal-icons/obtain_colored_harness/blue/icon.webp"
+    },
+    {
+      "label": "Obtain Light Blue Harness",
+      "path": "/goal-icons/obtain_colored_harness/light_blue/icon.webp"
+    },
+    {
+      "label": "Obtain Orange Harness",
+      "path": "/goal-icons/obtain_colored_harness/orange/icon.webp"
+    },
+    {
+      "label": "Obtain Red Harness",
+      "path": "/goal-icons/obtain_colored_harness/red/icon.webp"
+    },
+    {
+      "label": "Obtain Yellow Harness",
+      "path": "/goal-icons/obtain_colored_harness/yellow/icon.webp"
+    },
+    {
+      "label": "Obtain Magenta Harness",
+      "path": "/goal-icons/obtain_colored_harness/magenta/icon.webp"
+    },
+    {
+      "label": "Obtain Pink Harness",
+      "path": "/goal-icons/obtain_colored_harness/pink/icon.webp"
+    },
+    {
+      "label": "Obtain Purple Harness",
+      "path": "/goal-icons/obtain_colored_harness/purple/icon.webp"
+    },
+    {
+      "label": "Obtain Green Harness",
+      "path": "/goal-icons/obtain_colored_harness/green/icon.webp"
+    },
+    {
+      "label": "Obtain Lime Harness",
+      "path": "/goal-icons/obtain_colored_harness/lime/icon.webp"
+    },
+    {
+      "label": "Obtain Cyan Harness",
+      "path": "/goal-icons/obtain_colored_harness/cyan/icon.webp"
+    },
+    {
+      "label": "Obtain Brown Harness",
+      "path": "/goal-icons/obtain_colored_harness/brown/icon.webp"
+    }
+  ],
+  "Obtain Copper Chest": [
+    {
+      "label": "Obtain Copper Chest",
+      "path": "/goal-icons/obtain_copper_chest/null/icon.webp"
+    }
+  ],
+  "Obtain Activator Rail": [
+    {
+      "label": "Obtain Activator Rail",
+      "path": "/goal-icons/obtain_activator_rail/null/icon.webp"
+    }
+  ],
+  "Obtain Detector Rail": [
+    {
+      "label": "Obtain Detector Rail",
+      "path": "/goal-icons/obtain_detector_rail/null/icon.webp"
+    }
+  ],
+  "Obtain every type of Minecart": [
+    {
+      "label": "Obtain every type of Minecart",
+      "path": "/goal-icons/obtain_all_minecarts/null/icon.webp"
+    }
+  ],
+  "Obtain Powered Rail": [
+    {
+      "label": "Obtain Powered Rail",
+      "path": "/goal-icons/obtain_powered_rail/null/icon.webp"
+    }
+  ],
+  "Obtain Amethyst Block": [
+    {
+      "label": "Obtain Amethyst Block",
+      "path": "/goal-icons/obtain_amethyst_block/null/icon.webp"
+    }
+  ],
+  "Obtain Ancient Debris": [
+    {
+      "label": "Obtain Ancient Debris",
+      "path": "/goal-icons/obtain_ancient_debris/null/icon.webp"
+    }
+  ],
+  "Obtain Dragon Egg": [
+    {
+      "label": "Obtain Dragon Egg",
+      "path": "/goal-icons/obtain_dragon_egg/null/icon.webp"
+    }
+  ],
+  "Obtain Emerald Block": [
+    {
+      "label": "Obtain Emerald Block",
+      "path": "/goal-icons/obtain_emerald_block/null/icon.webp"
+    }
+  ],
+  "Obtain Ender Chest": [
+    {
+      "label": "Obtain Ender Chest",
+      "path": "/goal-icons/obtain_ender_chest/null/icon.webp"
+    }
+  ],
+  "Obtain Experience Bottle": [
+    {
+      "label": "Obtain Bottle o' Enchanting",
+      "path": "/goal-icons/obtain_enchant_bottle/null/icon.webp"
+    }
+  ],
+  "Obtain Gilded Blackstone": [
+    {
+      "label": "Obtain Gilded Blackstone",
+      "path": "/goal-icons/obtain_gilded_blackstone/null/icon.webp"
+    }
+  ],
+  "Obtain Heart Of The Sea": [
+    {
+      "label": "Obtain Heart Of The Sea",
+      "path": "/goal-icons/obtain_heart_of_the_sea/null/icon.webp"
+    }
+  ],
+  "Obtain Lodestone": [
+    {
+      "label": "Obtain Lodestone",
+      "path": "/goal-icons/obtain_lodestone/null/icon.webp"
+    }
+  ],
+  "Obtain Netherite Scrap": [
+    {
+      "label": "Obtain Netherite Scrap",
+      "path": "/goal-icons/obtain_netherite_scrap/null/icon.webp"
+    }
+  ],
+  "Obtain Wither Skeleton Skull": [
+    {
+      "label": "Obtain Wither Skeleton Skull",
+      "path": "/goal-icons/obtain_wither_skeleton_skull/null/icon.webp"
+    }
+  ],
+  "Obtain Daylight Detector": [
+    {
+      "label": "Obtain Daylight Detector",
+      "path": "/goal-icons/obtain_daylight_detector/null/icon.webp"
+    }
+  ],
+  "Obtain Dispenser": [
+    {
+      "label": "Obtain Dispenser",
+      "path": "/goal-icons/obtain_dispenser/null/icon.webp"
+    }
+  ],
+  "Obtain Observer": [
+    {
+      "label": "Obtain Observer",
+      "path": "/goal-icons/obtain_observer/null/icon.webp"
+    }
+  ],
+  "Obtain Piston": [
+    {
+      "label": "Obtain Piston",
+      "path": "/goal-icons/obtain_piston/null/icon.webp"
+    }
+  ],
+  "Obtain Redstone Comparator": [
+    {
+      "label": "Obtain Redstone Comparator",
+      "path": "/goal-icons/obtain_redstone_comparator/null/icon.webp"
+    }
+  ],
+  "Obtain Redstone Lamp": [
+    {
+      "label": "Obtain Redstone Lamp",
+      "path": "/goal-icons/obtain_redstone_lamp/null/icon.webp"
+    }
+  ],
+  "Obtain Redstone Repeater": [
+    {
+      "label": "Obtain Redstone Repeater",
+      "path": "/goal-icons/obtain_redstone_repeater/null/icon.webp"
+    }
+  ],
+  "Obtain TNT": [
+    {
+      "label": "Obtain TNT",
+      "path": "/goal-icons/obtain_tnt/null/icon.webp"
+    }
+  ],
+  "Obtain 3 types of Horse Armor": [
+    {
+      "label": "Obtain 3 types of Horse Armor",
+      "path": "/goal-icons/obtain_3_horse_armors/null/icon.webp"
+    }
+  ],
+  "Obtain 3 Unique Banner Patterns": [
+    {
+      "label": "Obtain 3 Unique Banner Patterns",
+      "path": "/goal-icons/obtain_3_banner_patterns/null/icon.webp"
+    }
+  ],
+  "Obtain 4 Unique Saplings": [
+    {
+      "label": "Obtain 4 Unique Saplings",
+      "path": "/goal-icons/obtain_4_unique_saplings/null/icon.webp"
+    }
+  ],
+  "Obtain 4 Unique Seeds": [
+    {
+      "label": "Obtain 4 Unique Seeds",
+      "path": "/goal-icons/obtain_4_unique_seeds/null/icon.webp"
+    }
+  ],
+  "Obtain 6 Unique Buckets": [
+    {
+      "label": "Obtain 6 Unique Buckets",
+      "path": "/goal-icons/obtain_6_unique_buckets/null/icon.webp"
+    }
+  ],
+  "Obtain 6 Unique Flowers": [
+    {
+      "label": "Obtain 6 Unique Flowers",
+      "path": "/goal-icons/obtain_6_unique_flowers/null/icon.webp"
+    }
+  ],
+  "Obtain 7 Unique Workstations": [
+    {
+      "label": "Obtain 7 Unique Workstations",
+      "path": "/goal-icons/obtain_7_unique_workstations/null/icon.webp"
+    }
+  ],
+  "Obtain 2 Unique Armor Trims": [
+    {
+      "label": "Obtain 2 Unique Armor Trims",
+      "path": "/goal-icons/obtain_2_armor_trims/null/icon.webp"
+    }
+  ],
+  "Reach XP level 10": [
+    {
+      "label": "Reach XP level 10",
+      "path": "/goal-icons/reach_exp_level_10/null/icon.webp"
+    }
+  ],
+  "Reach XP level 20": [
+    {
+      "label": "Reach XP level 20",
+      "path": "/goal-icons/reach_exp_level_20/null/icon.webp"
+    }
+  ],
+  "Deal 400 damage": [
+    {
+      "label": "Deal 400 damage",
+      "path": "/goal-icons/deal_400_damage/null/icon.webp"
+    }
+  ],
+  "Sprint 1km": [
+    {
+      "label": "Sprint 1km",
+      "path": "/goal-icons/sprint_1_km/null/icon.webp"
+    }
+  ],
+  "Take 200 damage": [
+    {
+      "label": "Take 200 damage",
+      "path": "/goal-icons/take_200_damage/null/icon.webp"
+    }
+  ],
+  "Spy on Enderman": [
+    {
+      "label": "Spy on Enderman",
+      "path": "/goal-icons/spy_enderman/null/icon.webp"
+    }
+  ],
+  "Spy on Iron Golem": [
+    {
+      "label": "Spy on Iron Golem",
+      "path": "/goal-icons/spy_iron_golem/null/icon.webp"
+    }
+  ],
+  "Spy on Piglin Brute": [
+    {
+      "label": "Spy on Piglin Brute",
+      "path": "/goal-icons/spy_piglin_brute/null/icon.webp"
+    }
+  ],
+  "Spy on 10 Unique Mobs": [
+    {
+      "label": "Spy on 10 Unique Mobs",
+      "path": "/goal-icons/spy_10_unique_mobs/null/icon.webp"
+    }
+  ],
+  "Spy on 15 Unique Mobs": [
+    {
+      "label": "Spy on 15 Unique Mobs",
+      "path": "/goal-icons/spy_15_unique_mobs/null/icon.webp"
+    }
+  ],
+  "Spy on 20 Unique Mobs": [
+    {
+      "label": "Spy on 20 Unique Mobs",
+      "path": "/goal-icons/spy_20_unique_mobs/null/icon.webp"
+    }
+  ],
+  "Spy on 25 Unique Mobs": [
+    {
+      "label": "Spy on 25 Unique Mobs",
+      "path": "/goal-icons/spy_25_unique_mobs/null/icon.webp"
+    }
+  ],
+  "Get Absorption": [
+    {
+      "label": "Get Absorption",
+      "path": "/goal-icons/get_absorption_status_effect/null/icon.webp"
+    }
+  ],
+  "Get Bad Omen": [
+    {
+      "label": "Get Bad Omen",
+      "path": "/goal-icons/get_bad_omen_status_effect/null/icon.webp"
+    }
+  ],
+  "Get Glowing": [
+    {
+      "label": "Get Glowing",
+      "path": "/goal-icons/get_glowing_status_effect/null/icon.webp"
+    }
+  ],
+  "Get Jump Boost": [
+    {
+      "label": "Get Jump Boost",
+      "path": "/goal-icons/get_jump_boost_status_effect/null/icon.webp"
+    }
+  ],
+  "Get Mining Fatigue": [
+    {
+      "label": "Get Mining Fatigue",
+      "path": "/goal-icons/get_mining_fatigue_status_effect/null/icon.webp"
+    }
+  ],
+  "Get Nausea": [
+    {
+      "label": "Get Nausea",
+      "path": "/goal-icons/get_nausea_status_effect/null/icon.webp"
+    }
+  ],
+  "Get Poison": [
+    {
+      "label": "Get Poison",
+      "path": "/goal-icons/get_poison_status_effect/null/icon.webp"
+    }
+  ],
+  "Get Weakness": [
+    {
+      "label": "Get Weakness",
+      "path": "/goal-icons/get_weakness_status_effect/null/icon.webp"
+    }
+  ],
+  "Remove Effect using Milk Bucket": [
+    {
+      "label": "Remove Effect using Milk Bucket",
+      "path": "/goal-icons/remove_status_effect_using_milk/null/icon.webp"
+    }
+  ],
+  "Get Levitation": [
+    {
+      "label": "Get Levitation",
+      "path": "/goal-icons/get_levitation_status_effect/null/icon.webp"
+    }
+  ],
+  "Get 3 Status Effects at once": [
+    {
+      "label": "Get 3 Status Effects at once",
+      "path": "/goal-icons/get_3_status_effects_at_once/null/icon.webp"
+    }
+  ],
+  "Get 4 Status Effects at once": [
+    {
+      "label": "Get 4 Status Effects at once",
+      "path": "/goal-icons/get_4_status_effects_at_once/null/icon.webp"
+    }
+  ],
+  "Get 6 Status Effects at once": [
+    {
+      "label": "Get 6 Status Effects at once",
+      "path": "/goal-icons/get_6_status_effects_at_once/null/icon.webp"
+    }
+  ],
+  "Obtain all Copper Tools": [
+    {
+      "label": "Obtain all Copper Tools",
+      "path": "/goal-icons/obtain_copper_tools/null/icon.webp"
+    }
+  ],
+  "Obtain all Diamond Tools": [
+    {
+      "label": "Obtain all Diamond Tools",
+      "path": "/goal-icons/obtain_diamond_tools/null/icon.webp"
+    }
+  ],
+  "Obtain all Golden Tools": [
+    {
+      "label": "Obtain all Golden Tools",
+      "path": "/goal-icons/obtain_golden_tools/null/icon.webp"
+    }
+  ],
+  "Obtain all Iron Tools": [
+    {
+      "label": "Obtain all Iron Tools",
+      "path": "/goal-icons/obtain_iron_tools/null/icon.webp"
+    }
+  ],
+  "Obtain all Stone Tools": [
+    {
+      "label": "Obtain all Stone Tools",
+      "path": "/goal-icons/obtain_stone_tools/null/icon.webp"
+    }
+  ],
+  "Obtain all Wooden Tools": [
+    {
+      "label": "Obtain all Wooden Tools",
+      "path": "/goal-icons/obtain_wooden_tools/null/icon.webp"
+    }
+  ],
+  "Break any Tool": [
+    {
+      "label": "Break any Tool",
+      "path": "/goal-icons/break_any_tool/null/icon.webp"
+    }
+  ],
+  "Have your Shield disabled": [
+    {
+      "label": "Have your Shield disabled",
+      "path": "/goal-icons/have_your_shield_disabled/null/icon.webp"
+    }
+  ],
+  "Shoot Firework from Crossbow": [
+    {
+      "label": "Shoot Firework from Crossbow",
+      "path": "/goal-icons/shoot_firework_from_crossbow/null/icon.webp"
+    }
+  ],
+  "Use Brush on Suspicious Sand/Gravel": [
+    {
+      "label": "Use Brush on Suspicious Sand/Gravel",
+      "path": "/goal-icons/use_brush_on_suspicious_block/null/icon.webp"
+    }
+  ],
+  "Break Fishing Rod": [
+    {
+      "label": "Break Fishing Rod",
+      "path": "/goal-icons/break_fishing_rod/null/icon.webp"
+    }
+  ],
+  "Break Shield": [
+    {
+      "label": "Break Shield",
+      "path": "/goal-icons/break_shield/null/icon.webp"
+    }
+  ],
+  "Wear Full Copper Armor": [
+    {
+      "label": "Wear Full Copper Armor",
+      "path": "/goal-icons/wear_copper_armor/null/icon.webp"
+    }
+  ],
+  "Wear Full Diamond Armor": [
+    {
+      "label": "Wear Full Diamond Armor",
+      "path": "/goal-icons/wear_diamond_armor/null/icon.webp"
+    }
+  ],
+  "Wear Full Golden Armor": [
+    {
+      "label": "Wear Full Golden Armor",
+      "path": "/goal-icons/wear_golden_armor/null/icon.webp"
+    }
+  ],
+  "Wear Full Iron Armor": [
+    {
+      "label": "Wear Full Iron Armor",
+      "path": "/goal-icons/wear_iron_armor/null/icon.webp"
+    }
+  ],
+  "Wear Full Leather Armor": [
+    {
+      "label": "Wear Full Leather Armor",
+      "path": "/goal-icons/wear_leather_armor/null/icon.webp"
+    }
+  ],
+  "Put Wolf Armor on Wolf": [
+    {
+      "label": "Put Wolf Armor on Wolf",
+      "path": "/goal-icons/put_wolf_armor_on_wolf/null/icon.webp"
+    }
+  ],
+  "Wear a Carved Pumpkin for 5 minutes": [
+    {
+      "label": "Wear a Carved Pumpkin for 5 minutes",
+      "path": "/goal-icons/wear_carved_pumpkin_for_5_minutes/null/icon.webp"
+    }
+  ],
+  "Wear a Chain Armor Piece": [
+    {
+      "label": "Wear a Chain Armor Piece",
+      "path": "/goal-icons/wear_chain_armor_piece/null/icon.webp"
+    }
+  ],
+  "Wear Colored Leather Armor Piece": [
+    {
+      "label": "Wear Black Leather Helmet",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_helmet__black/icon.webp"
+    },
+    {
+      "label": "Wear White Leather Helmet",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_helmet__white/icon.webp"
+    },
+    {
+      "label": "Wear Gray Leather Helmet",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_helmet__gray/icon.webp"
+    },
+    {
+      "label": "Wear Light Gray Leather Helmet",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_helmet__light_gray/icon.webp"
+    },
+    {
+      "label": "Wear Blue Leather Helmet",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_helmet__blue/icon.webp"
+    },
+    {
+      "label": "Wear Light Blue Leather Helmet",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_helmet__light_blue/icon.webp"
+    },
+    {
+      "label": "Wear Orange Leather Helmet",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_helmet__orange/icon.webp"
+    },
+    {
+      "label": "Wear Red Leather Helmet",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_helmet__red/icon.webp"
+    },
+    {
+      "label": "Wear Yellow Leather Helmet",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_helmet__yellow/icon.webp"
+    },
+    {
+      "label": "Wear Magenta Leather Helmet",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_helmet__magenta/icon.webp"
+    },
+    {
+      "label": "Wear Pink Leather Helmet",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_helmet__pink/icon.webp"
+    },
+    {
+      "label": "Wear Purple Leather Helmet",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_helmet__purple/icon.webp"
+    },
+    {
+      "label": "Wear Green Leather Helmet",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_helmet__green/icon.webp"
+    },
+    {
+      "label": "Wear Lime Leather Helmet",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_helmet__lime/icon.webp"
+    },
+    {
+      "label": "Wear Cyan Leather Helmet",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_helmet__cyan/icon.webp"
+    },
+    {
+      "label": "Wear Brown Leather Helmet",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_helmet__brown/icon.webp"
+    },
+    {
+      "label": "Wear Black Leather Chestplate",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_chestplate__black/icon.webp"
+    },
+    {
+      "label": "Wear White Leather Chestplate",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_chestplate__white/icon.webp"
+    },
+    {
+      "label": "Wear Gray Leather Chestplate",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_chestplate__gray/icon.webp"
+    },
+    {
+      "label": "Wear Light Gray Leather Chestplate",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_chestplate__light_gray/icon.webp"
+    },
+    {
+      "label": "Wear Blue Leather Chestplate",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_chestplate__blue/icon.webp"
+    },
+    {
+      "label": "Wear Light Blue Leather Chestplate",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_chestplate__light_blue/icon.webp"
+    },
+    {
+      "label": "Wear Orange Leather Chestplate",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_chestplate__orange/icon.webp"
+    },
+    {
+      "label": "Wear Red Leather Chestplate",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_chestplate__red/icon.webp"
+    },
+    {
+      "label": "Wear Yellow Leather Chestplate",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_chestplate__yellow/icon.webp"
+    },
+    {
+      "label": "Wear Magenta Leather Chestplate",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_chestplate__magenta/icon.webp"
+    },
+    {
+      "label": "Wear Pink Leather Chestplate",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_chestplate__pink/icon.webp"
+    },
+    {
+      "label": "Wear Purple Leather Chestplate",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_chestplate__purple/icon.webp"
+    },
+    {
+      "label": "Wear Green Leather Chestplate",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_chestplate__green/icon.webp"
+    },
+    {
+      "label": "Wear Lime Leather Chestplate",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_chestplate__lime/icon.webp"
+    },
+    {
+      "label": "Wear Cyan Leather Chestplate",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_chestplate__cyan/icon.webp"
+    },
+    {
+      "label": "Wear Brown Leather Chestplate",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_chestplate__brown/icon.webp"
+    },
+    {
+      "label": "Wear Black Leather Leggings",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_leggings__black/icon.webp"
+    },
+    {
+      "label": "Wear White Leather Leggings",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_leggings__white/icon.webp"
+    },
+    {
+      "label": "Wear Gray Leather Leggings",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_leggings__gray/icon.webp"
+    },
+    {
+      "label": "Wear Light Gray Leather Leggings",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_leggings__light_gray/icon.webp"
+    },
+    {
+      "label": "Wear Blue Leather Leggings",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_leggings__blue/icon.webp"
+    },
+    {
+      "label": "Wear Light Blue Leather Leggings",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_leggings__light_blue/icon.webp"
+    },
+    {
+      "label": "Wear Orange Leather Leggings",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_leggings__orange/icon.webp"
+    },
+    {
+      "label": "Wear Red Leather Leggings",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_leggings__red/icon.webp"
+    },
+    {
+      "label": "Wear Yellow Leather Leggings",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_leggings__yellow/icon.webp"
+    },
+    {
+      "label": "Wear Magenta Leather Leggings",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_leggings__magenta/icon.webp"
+    },
+    {
+      "label": "Wear Pink Leather Leggings",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_leggings__pink/icon.webp"
+    },
+    {
+      "label": "Wear Purple Leather Leggings",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_leggings__purple/icon.webp"
+    },
+    {
+      "label": "Wear Green Leather Leggings",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_leggings__green/icon.webp"
+    },
+    {
+      "label": "Wear Lime Leather Leggings",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_leggings__lime/icon.webp"
+    },
+    {
+      "label": "Wear Cyan Leather Leggings",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_leggings__cyan/icon.webp"
+    },
+    {
+      "label": "Wear Brown Leather Leggings",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_leggings__brown/icon.webp"
+    },
+    {
+      "label": "Wear Black Leather Boots",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_boots__black/icon.webp"
+    },
+    {
+      "label": "Wear White Leather Boots",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_boots__white/icon.webp"
+    },
+    {
+      "label": "Wear Gray Leather Boots",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_boots__gray/icon.webp"
+    },
+    {
+      "label": "Wear Light Gray Leather Boots",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_boots__light_gray/icon.webp"
+    },
+    {
+      "label": "Wear Blue Leather Boots",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_boots__blue/icon.webp"
+    },
+    {
+      "label": "Wear Light Blue Leather Boots",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_boots__light_blue/icon.webp"
+    },
+    {
+      "label": "Wear Orange Leather Boots",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_boots__orange/icon.webp"
+    },
+    {
+      "label": "Wear Red Leather Boots",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_boots__red/icon.webp"
+    },
+    {
+      "label": "Wear Yellow Leather Boots",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_boots__yellow/icon.webp"
+    },
+    {
+      "label": "Wear Magenta Leather Boots",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_boots__magenta/icon.webp"
+    },
+    {
+      "label": "Wear Pink Leather Boots",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_boots__pink/icon.webp"
+    },
+    {
+      "label": "Wear Purple Leather Boots",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_boots__purple/icon.webp"
+    },
+    {
+      "label": "Wear Green Leather Boots",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_boots__green/icon.webp"
+    },
+    {
+      "label": "Wear Lime Leather Boots",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_boots__lime/icon.webp"
+    },
+    {
+      "label": "Wear Cyan Leather Boots",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_boots__cyan/icon.webp"
+    },
+    {
+      "label": "Wear Brown Leather Boots",
+      "path": "/goal-icons/wear_colored_leather_armor_piece/leather_boots__brown/icon.webp"
+    }
+  ],
+  "Wear Full Enchanted Armor": [
+    {
+      "label": "Wear Full Enchanted Armor",
+      "path": "/goal-icons/wear_full_enchanted_armor/null/icon.webp"
+    }
+  ],
+  "Wear Full Leather Armor, in different colors": [
+    {
+      "label": "Wear Full Leather Armor, in different colors",
+      "path": "/goal-icons/wear_unique_colored_leather_armor/null/icon.webp"
+    }
+  ],
+  "Wear Full Armor with different materials": [
+    {
+      "label": "Wear Full Armor with different materials",
+      "path": "/goal-icons/wear_unique_armor/null/icon.webp"
+    }
+  ]
+}

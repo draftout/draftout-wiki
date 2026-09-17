@@ -1,0 +1,24 @@
+{
+  "title": "Goals",
+  "description": "Goal requirements and resources.",
+  "icon": "Target",
+  "root": true,
+  "pages": [
+    "index",
+    "obtain",
+    "consume",
+    "mobs-entities",
+    "kill",
+    "blocks-interfaces",
+    "use-tools",
+    "wear-armor",
+    "advancement",
+    "dimension",
+    "player-progress",
+    "status-effect",
+    "spyglass",
+    "death",
+    "misc"
+  ],
+  "pagesIndex": "index"
+}

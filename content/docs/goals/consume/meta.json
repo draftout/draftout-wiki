@@ -1,0 +1,11 @@
+{
+  "title": "Food and potions",
+  "pages": [
+    "brewing-potions",
+    "composting-foods",
+    "consuming-foods",
+    "drinking-bottles",
+    "eating-unique-foods"
+  ],
+  "icon": "Apple"
+}

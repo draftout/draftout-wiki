@@ -1,0 +1,11 @@
+{
+  "title": "Animals and entities",
+  "pages": [
+    "breeding-animals",
+    "breeding-unique-animals",
+    "leashing-mobs",
+    "riding-entities",
+    "taming-animals"
+  ],
+  "icon": "PawPrint"
+}
