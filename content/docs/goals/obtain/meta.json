@@ -2,14 +2,14 @@
   "title": "Obtaining items",
   "pages": [
     "building-materials",
-    "bulk-stacks",
-    "collect-all-sets",
     "decoration-lighting",
+    "every-type-of-item",
     "other-obtainables",
     "rails-minecarts",
     "rare-valuable",
     "redstone-mechanisms",
-    "unique-collections"
+    "stacks-of-items",
+    "unique-types-of-item"
   ],
   "icon": "Boxes"
 }

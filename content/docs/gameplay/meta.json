@@ -4,7 +4,7 @@
   "icon": "Gamepad2",
   "root": true,
   "pages": [
-    "index",
+    "getting-started",
     "playing",
     "drafting",
     "ranks",
