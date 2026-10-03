@@ -37,7 +37,7 @@ Rerolling resets your 10-second timer.
 
 Compare goal offers with the structures and mobs you can see in the world.
 
-Goals are familiar with are usually a good pick, and goals that share similar materials/structures fit into the same route (but remember that your opponent can also complete the goals you choose!).
+Goals you are familiar with are usually a good pick, and goals that share similar materials/structures fit into the same route (but remember that your opponent can also complete the goals you choose!).
 
 After drafting, use the countdown to review the full board before the game starts.
 
