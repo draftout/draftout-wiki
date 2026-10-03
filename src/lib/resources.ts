@@ -486,7 +486,7 @@ export const resources = {
   },
   "shield-breaking-methods": {
     title: "Shield-breaking methods",
-    url: "https://www.youtube.com/watch?v=7QSMUI5Jmo8",
+    url: "https://www.youtube.com/watch?v=JF3Ybb8fYdA",
     description: "Shield-breaking setups, including individually detonated TNT on Hard difficulty",
   },
   "shield-disable-methods": {
