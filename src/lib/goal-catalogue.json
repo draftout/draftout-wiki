@@ -247,13 +247,13 @@
   ],
   "Lock a Map using Cartography Table": [
     {
-      "label": "Lock a Map using Catrography Table",
+      "label": "Lock a Map using Cartography Table",
       "path": "/goal-icons/lock_map/null/icon.webp"
     }
   ],
   "Use Cartography Table": [
     {
-      "label": "Use Catrography Table",
+      "label": "Use Cartography Table",
       "path": "/goal-icons/use_cartography_table/null/icon.webp"
     }
   ],
@@ -389,6 +389,12 @@
       "path": "/goal-icons/drink_water_bottle/null/icon.webp"
     }
   ],
+  "Eat 5 Unique Food": [
+    {
+      "label": "Eat 5 Unique Food",
+      "path": "/goal-icons/eat_5_unique_food/null/icon.webp"
+    }
+  ],
   "Eat 10 Unique Food": [
     {
       "label": "Eat 10 Unique Food",
@@ -411,12 +417,6 @@
     {
       "label": "Eat 25 Unique Food",
       "path": "/goal-icons/eat_25_unique_food/null/icon.webp"
-    }
-  ],
-  "Eat 5 Unique Food": [
-    {
-      "label": "Eat 5 Unique Food",
-      "path": "/goal-icons/eat_5_unique_food/null/icon.webp"
     }
   ],
   "Die by Magic": [
@@ -815,6 +815,12 @@
       "path": "/goal-icons/item_frame_in_item_frame/null/icon.webp"
     }
   ],
+  "Use Glow Ink on Crimson or Warped Sign": [
+    {
+      "label": "Use Glow Ink on Crimson or Warped Sign",
+      "path": "/goal-icons/use_glow_ink_nether/null/icon.webp"
+    }
+  ],
   "Use Glow Ink on Crimson Sign": [
     {
       "label": "Use Glow Ink on Crimson Sign",
@@ -833,12 +839,6 @@
       "path": "/goal-icons/craft_armor_trim/null/icon.webp"
     }
   ],
-  "Name a Sheep 'jeb_'": [
-    {
-      "label": "Name a Sheep 'jeb_'",
-      "path": "/goal-icons/name_sheep_jeb/null/icon.webp"
-    }
-  ],
   "Place a Hanging Sign": [
     {
       "label": "Place a Hanging Sign",
@@ -849,12 +849,6 @@
     {
       "label": "Place Painting",
       "path": "/goal-icons/place_painting/null/icon.webp"
-    }
-  ],
-  "Use Glow Ink on Crimson or Warped Sign": [
-    {
-      "label": "Use Glow Ink on Crimson or Warped Sign",
-      "path": "/goal-icons/use_glow_ink_nether/null/icon.webp"
     }
   ],
   "Enrage Enderman": [
@@ -879,6 +873,12 @@
     {
       "label": "Name an Iron Golem 'Dinnerbone'",
       "path": "/goal-icons/turn_iron_golem_upside_down/null/icon.webp"
+    }
+  ],
+  "Name a Sheep 'jeb_'": [
+    {
+      "label": "Name a Sheep 'jeb_'",
+      "path": "/goal-icons/name_sheep_jeb/null/icon.webp"
     }
   ],
   "Duplicate Allay": [
@@ -1157,192 +1157,6 @@
       "path": "/goal-icons/obtain_smooth_quartz_stairs/null/icon.webp"
     }
   ],
-  "Obtain 64 Arrows": [
-    {
-      "label": "Obtain 64 Arrows",
-      "path": "/goal-icons/obtain_64_arrows/null/icon.webp"
-    }
-  ],
-  "Obtain 64 Colored Concrete": [
-    {
-      "label": "Obtain 64 Black Concrete",
-      "path": "/goal-icons/obtain_64_colored_concrete/black/icon.webp"
-    },
-    {
-      "label": "Obtain 64 White Concrete",
-      "path": "/goal-icons/obtain_64_colored_concrete/white/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Gray Concrete",
-      "path": "/goal-icons/obtain_64_colored_concrete/gray/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Light Gray Concrete",
-      "path": "/goal-icons/obtain_64_colored_concrete/light_gray/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Blue Concrete",
-      "path": "/goal-icons/obtain_64_colored_concrete/blue/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Light Blue Concrete",
-      "path": "/goal-icons/obtain_64_colored_concrete/light_blue/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Orange Concrete",
-      "path": "/goal-icons/obtain_64_colored_concrete/orange/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Red Concrete",
-      "path": "/goal-icons/obtain_64_colored_concrete/red/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Yellow Concrete",
-      "path": "/goal-icons/obtain_64_colored_concrete/yellow/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Magenta Concrete",
-      "path": "/goal-icons/obtain_64_colored_concrete/magenta/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Pink Concrete",
-      "path": "/goal-icons/obtain_64_colored_concrete/pink/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Purple Concrete",
-      "path": "/goal-icons/obtain_64_colored_concrete/purple/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Green Concrete",
-      "path": "/goal-icons/obtain_64_colored_concrete/green/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Lime Concrete",
-      "path": "/goal-icons/obtain_64_colored_concrete/lime/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Cyan Concrete",
-      "path": "/goal-icons/obtain_64_colored_concrete/cyan/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Brown Concrete",
-      "path": "/goal-icons/obtain_64_colored_concrete/brown/icon.webp"
-    }
-  ],
-  "Obtain 64 Colored Wool": [
-    {
-      "label": "Obtain 64 Black Wool",
-      "path": "/goal-icons/obtain_64_colored_wool/black/icon.webp"
-    },
-    {
-      "label": "Obtain 64 White Wool",
-      "path": "/goal-icons/obtain_64_colored_wool/white/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Gray Wool",
-      "path": "/goal-icons/obtain_64_colored_wool/gray/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Light Gray Wool",
-      "path": "/goal-icons/obtain_64_colored_wool/light_gray/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Blue Wool",
-      "path": "/goal-icons/obtain_64_colored_wool/blue/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Light Blue Wool",
-      "path": "/goal-icons/obtain_64_colored_wool/light_blue/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Orange Wool",
-      "path": "/goal-icons/obtain_64_colored_wool/orange/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Red Wool",
-      "path": "/goal-icons/obtain_64_colored_wool/red/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Yellow Wool",
-      "path": "/goal-icons/obtain_64_colored_wool/yellow/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Magenta Wool",
-      "path": "/goal-icons/obtain_64_colored_wool/magenta/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Pink Wool",
-      "path": "/goal-icons/obtain_64_colored_wool/pink/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Purple Wool",
-      "path": "/goal-icons/obtain_64_colored_wool/purple/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Green Wool",
-      "path": "/goal-icons/obtain_64_colored_wool/green/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Lime Wool",
-      "path": "/goal-icons/obtain_64_colored_wool/lime/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Cyan Wool",
-      "path": "/goal-icons/obtain_64_colored_wool/cyan/icon.webp"
-    },
-    {
-      "label": "Obtain 64 Brown Wool",
-      "path": "/goal-icons/obtain_64_colored_wool/brown/icon.webp"
-    }
-  ],
-  "Obtain 64 Coarse Dirt": [
-    {
-      "label": "Obtain 64 Coarse Dirt",
-      "path": "/goal-icons/obtain_64_coarse_dirt/null/icon.webp"
-    }
-  ],
-  "Obtain 32 Arrows": [
-    {
-      "label": "Obtain 32 Arrows",
-      "path": "/goal-icons/obtain_32_arrows/null/icon.webp"
-    }
-  ],
-  "Obtain a stack of any Item": [
-    {
-      "label": "Obtain a stack of any Item",
-      "path": "/goal-icons/obtain_stack_of_64/null/icon.webp"
-    }
-  ],
-  "Obtain every type of Furnace": [
-    {
-      "label": "Obtain every type of Furnace",
-      "path": "/goal-icons/obtain_all_furnaces/null/icon.webp"
-    }
-  ],
-  "Obtain every type of Mushroom": [
-    {
-      "label": "Obtain every type of Mushroom",
-      "path": "/goal-icons/obtain_all_mushrooms/null/icon.webp"
-    }
-  ],
-  "Obtain every type of Pumpkin": [
-    {
-      "label": "Obtain every type of Pumpkin",
-      "path": "/goal-icons/obtain_all_pumpkins/null/icon.webp"
-    }
-  ],
-  "Obtain every type of Raw Ore Block": [
-    {
-      "label": "Obtain every type of Raw Ore Block",
-      "path": "/goal-icons/obtain_all_raw_ore_blocks/null/icon.webp"
-    }
-  ],
-  "Obtain every type of Torch": [
-    {
-      "label": "Obtain every type of Torch",
-      "path": "/goal-icons/obtain_all_torches/null/icon.webp"
-    }
-  ],
   "Obtain Bell": [
     {
       "label": "Obtain Bell",
@@ -1461,6 +1275,30 @@
     {
       "label": "Obtain 16 Glow Lichen",
       "path": "/goal-icons/obtain_16_glow_lichen/null/icon.webp"
+    }
+  ],
+  "Obtain every type of Furnace": [
+    {
+      "label": "Obtain every type of Furnace",
+      "path": "/goal-icons/obtain_all_furnaces/null/icon.webp"
+    }
+  ],
+  "Obtain every type of Pumpkin": [
+    {
+      "label": "Obtain every type of Pumpkin",
+      "path": "/goal-icons/obtain_all_pumpkins/null/icon.webp"
+    }
+  ],
+  "Obtain every type of Raw Ore Block": [
+    {
+      "label": "Obtain every type of Raw Ore Block",
+      "path": "/goal-icons/obtain_all_raw_ore_blocks/null/icon.webp"
+    }
+  ],
+  "Obtain every type of Torch": [
+    {
+      "label": "Obtain every type of Torch",
+      "path": "/goal-icons/obtain_all_torches/null/icon.webp"
     }
   ],
   "Obtain Bucket of Tropical Fish": [
@@ -1721,6 +1559,162 @@
       "path": "/goal-icons/obtain_tnt/null/icon.webp"
     }
   ],
+  "Obtain 64 Arrows": [
+    {
+      "label": "Obtain 64 Arrows",
+      "path": "/goal-icons/obtain_64_arrows/null/icon.webp"
+    }
+  ],
+  "Obtain 64 Colored Concrete": [
+    {
+      "label": "Obtain 64 Black Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/black/icon.webp"
+    },
+    {
+      "label": "Obtain 64 White Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/white/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Gray Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/gray/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Light Gray Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/light_gray/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Blue Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/blue/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Light Blue Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/light_blue/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Orange Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/orange/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Red Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/red/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Yellow Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/yellow/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Magenta Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/magenta/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Pink Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/pink/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Purple Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/purple/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Green Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/green/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Lime Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/lime/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Cyan Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/cyan/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Brown Concrete",
+      "path": "/goal-icons/obtain_64_colored_concrete/brown/icon.webp"
+    }
+  ],
+  "Obtain 64 Colored Wool": [
+    {
+      "label": "Obtain 64 Black Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/black/icon.webp"
+    },
+    {
+      "label": "Obtain 64 White Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/white/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Gray Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/gray/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Light Gray Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/light_gray/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Blue Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/blue/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Light Blue Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/light_blue/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Orange Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/orange/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Red Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/red/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Yellow Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/yellow/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Magenta Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/magenta/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Pink Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/pink/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Purple Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/purple/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Green Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/green/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Lime Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/lime/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Cyan Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/cyan/icon.webp"
+    },
+    {
+      "label": "Obtain 64 Brown Wool",
+      "path": "/goal-icons/obtain_64_colored_wool/brown/icon.webp"
+    }
+  ],
+  "Obtain 64 Coarse Dirt": [
+    {
+      "label": "Obtain 64 Coarse Dirt",
+      "path": "/goal-icons/obtain_64_coarse_dirt/null/icon.webp"
+    }
+  ],
+  "Obtain 32 Arrows": [
+    {
+      "label": "Obtain 32 Arrows",
+      "path": "/goal-icons/obtain_32_arrows/null/icon.webp"
+    }
+  ],
+  "Obtain a stack of any Item": [
+    {
+      "label": "Obtain a stack of any Item",
+      "path": "/goal-icons/obtain_stack_of_64/null/icon.webp"
+    }
+  ],
   "Obtain 3 types of Horse Armor": [
     {
       "label": "Obtain 3 types of Horse Armor",
@@ -1731,6 +1725,12 @@
     {
       "label": "Obtain 3 Unique Banner Patterns",
       "path": "/goal-icons/obtain_3_banner_patterns/null/icon.webp"
+    }
+  ],
+  "Obtain 4 Unique Mushrooms": [
+    {
+      "label": "Obtain 4 Unique Mushrooms",
+      "path": "/goal-icons/obtain_all_mushrooms/null/icon.webp"
     }
   ],
   "Obtain 4 Unique Saplings": [
