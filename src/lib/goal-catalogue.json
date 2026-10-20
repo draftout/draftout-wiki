@@ -2314,5 +2314,173 @@
       "label": "Wear Full Armor with different materials",
       "path": "/goal-icons/wear_unique_armor/null/icon.webp"
     }
+  ],
+  "Obtain \"Postmortal\" Advancement": [
+    {
+      "label": "Obtain \"Postmortal\" Advancement",
+      "path": "/goal-icons/get_postmortal_advancement/null/icon.webp"
+    }
+  ],
+  "Obtain \"It Spreads\" Advancement": [
+    {
+      "label": "Obtain \"It Spreads\" Advancement",
+      "path": "/goal-icons/get_it_spreads_advancement/null/icon.webp"
+    }
+  ],
+  "Obtain \"Uh Oh\" Advancement": [
+    {
+      "label": "Obtain \"Uh Oh\" Advancement",
+      "path": "/goal-icons/ignite_tnt_sulfur_cube/null/icon.webp"
+    }
+  ],
+  "Die to Sulfur Cube": [
+    {
+      "label": "Die to Sulfur Cube",
+      "path": "/goal-icons/die_to_sulfur_cube/null/icon.webp"
+    }
+  ],
+  "Obtain Bucket of Sulfur Cube": [
+    {
+      "label": "Obtain Bucket of Sulfur Cube",
+      "path": "/goal-icons/obtain_sulfur_cube_bucket/null/icon.webp"
+    }
+  ],
+  "Obtain Straw Bed": [
+    {
+      "label": "Obtain Straw Bed",
+      "path": "/goal-icons/obtain_straw_bed/null/icon.webp"
+    }
+  ],
+  "Obtain Coal Block": [
+    {
+      "label": "Obtain Coal Block",
+      "path": "/goal-icons/obtain_coal_block/null/icon.webp"
+    }
+  ],
+  "Obtain Bamboo Mosaic Stairs": [
+    {
+      "label": "Obtain Bamboo Mosaic Stairs",
+      "path": "/goal-icons/obtain_bamboo_mosaic_stairs/null/icon.webp"
+    }
+  ],
+  "Obtain 64 Name Tags": [
+    {
+      "label": "Obtain 64 Name Tags",
+      "path": "/goal-icons/obtain_64_name_tags/null/icon.webp"
+    }
+  ],
+  "Obtain 64 of any Flower": [
+    {
+      "label": "Obtain 64 of any Flower",
+      "path": "/goal-icons/obtain_64_of_any_flower/null/icon.webp"
+    }
+  ],
+  "Obtain 12 Unique Dyes": [
+    {
+      "label": "Obtain 12 Unique Dyes",
+      "path": "/goal-icons/obtain_12_unique_dyes/null/icon.webp"
+    }
+  ],
+  "Obtain 3 Unique Music Discs": [
+    {
+      "label": "Obtain 3 Unique Music Discs",
+      "path": "/goal-icons/obtain_3_unique_music_discs/null/icon.webp"
+    }
+  ],
+  "Fill Inventory with Mushroom Stew": [
+    {
+      "label": "Fill Inventory with Mushroom Stew",
+      "path": "/goal-icons/fill_inventory_mushroom_stew/null/icon.webp"
+    }
+  ],
+  "Mine Sea Lantern": [
+    {
+      "label": "Mine Sea Lantern",
+      "path": "/goal-icons/mine_sea_lantern/null/icon.webp"
+    }
+  ],
+  "Put a Bundle in a Bundle": [
+    {
+      "label": "Put a Bundle in a Bundle",
+      "path": "/goal-icons/bundle_in_bundle/null/icon.webp"
+    }
+  ],
+  "Give a Diamond to a Fox": [
+    {
+      "label": "Give a Diamond to a Fox",
+      "path": "/goal-icons/give_diamond_to_fox/null/icon.webp"
+    }
+  ],
+  "Ride a Geyser": [
+    {
+      "label": "Ride a Geyser",
+      "path": "/goal-icons/ride_geyser/null/icon.webp"
+    }
+  ],
+  "Sit on Colored Cushion": [
+    {
+      "label": "Sit on Black Cushion",
+      "path": "/goal-icons/sit_on_colored_cushion/black/icon.webp"
+    },
+    {
+      "label": "Sit on White Cushion",
+      "path": "/goal-icons/sit_on_colored_cushion/white/icon.webp"
+    },
+    {
+      "label": "Sit on Gray Cushion",
+      "path": "/goal-icons/sit_on_colored_cushion/gray/icon.webp"
+    },
+    {
+      "label": "Sit on Light Gray Cushion",
+      "path": "/goal-icons/sit_on_colored_cushion/light_gray/icon.webp"
+    },
+    {
+      "label": "Sit on Blue Cushion",
+      "path": "/goal-icons/sit_on_colored_cushion/blue/icon.webp"
+    },
+    {
+      "label": "Sit on Light Blue Cushion",
+      "path": "/goal-icons/sit_on_colored_cushion/light_blue/icon.webp"
+    },
+    {
+      "label": "Sit on Orange Cushion",
+      "path": "/goal-icons/sit_on_colored_cushion/orange/icon.webp"
+    },
+    {
+      "label": "Sit on Red Cushion",
+      "path": "/goal-icons/sit_on_colored_cushion/red/icon.webp"
+    },
+    {
+      "label": "Sit on Yellow Cushion",
+      "path": "/goal-icons/sit_on_colored_cushion/yellow/icon.webp"
+    },
+    {
+      "label": "Sit on Magenta Cushion",
+      "path": "/goal-icons/sit_on_colored_cushion/magenta/icon.webp"
+    },
+    {
+      "label": "Sit on Pink Cushion",
+      "path": "/goal-icons/sit_on_colored_cushion/pink/icon.webp"
+    },
+    {
+      "label": "Sit on Purple Cushion",
+      "path": "/goal-icons/sit_on_colored_cushion/purple/icon.webp"
+    },
+    {
+      "label": "Sit on Green Cushion",
+      "path": "/goal-icons/sit_on_colored_cushion/green/icon.webp"
+    },
+    {
+      "label": "Sit on Lime Cushion",
+      "path": "/goal-icons/sit_on_colored_cushion/lime/icon.webp"
+    },
+    {
+      "label": "Sit on Cyan Cushion",
+      "path": "/goal-icons/sit_on_colored_cushion/cyan/icon.webp"
+    },
+    {
+      "label": "Sit on Brown Cushion",
+      "path": "/goal-icons/sit_on_colored_cushion/brown/icon.webp"
+    }
   ]
 }
