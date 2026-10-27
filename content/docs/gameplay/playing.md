@@ -45,6 +45,16 @@ Tied Competitive matches have an overtime where the next player to complete any 
 
 The board screen also has **Draw vote** and **Forfeit match** buttons.
 
+In Competitive, forfeiting too often gives you a queue cooldown. Each type of forfeit has its own number of free forfeits every 12 hours:
+
+| Forfeit | When | Free forfeits every 12 hours |
+| --- | --- | --- |
+| Early | Under half the board completed (combined score below 13) | 1 |
+| Late | Half the board or more completed | 5 |
+| Disconnect | 5 minutes after disconnecting | 1 |
+
+Cooldowns mostly target early forfeits, so most players will never get one from late forfeits.
+
 After a Quick Play match, you can use **Rematch** to request another game with the same opponent.
 
 ## After the match

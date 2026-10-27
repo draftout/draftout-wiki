@@ -13,6 +13,7 @@ These loot tables are standardized:
 - Leather from cows, horses, donkeys, and mules are grouped into one sequence (order of killing said mobs doesn't matter; killing the same number of these mobs will give the same amount of leather).
 - Each ore (stone and deepslate variant) share one sequence (e.g. Lapis Ore and Deepslate Lapis ore).
 - Grass and fern blocks are grouped together.
+- Apples from Oak and Dark Oak Leaves share one sequence.
 - Mob equipment drops are standardized (Pillager crossbows, Witches' held potions, Piglin armor etc.).
 
 Pillager captain spawns are standardized by spawn number. This does not guarantee a captain at a fixed time or position.
@@ -39,6 +40,10 @@ Food effects are also standardized.
 In Vanilla, the damage that Iron Golem deals is random, and it varies significantly (7.5 base damage + up to 15 *random* additional damage, before accounting for difficulty).
 
 In Draftout, this damage is standardized, but only for player damage.
+
+### Bone Meal on Moss
+
+Using Bone Meal on Moss attempts the same spread shapes for all players. Moss spreads further on clean terrain, and more spread Moss means more vegetation attempts. Vegetation is standardized too: for example, the 30th spread Moss Block will have a Flowering Azalea for all players.
 
 ### Chest Loot
 

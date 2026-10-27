@@ -33,6 +33,12 @@ Linking Discord lets your Supporter subscription appear on Discord (and it gives
 
 Linking Twitch connects your Minecraft session to the [Draftout Twitch extension](https://dashboard.twitch.tv/extensions/4k57y3zkte8zfbegqvm5ngcgw6whpa-0.0.2). If Twitch account is linked, information about the board's position on your screen (as a % of the Minecraft window) is sent to the server.
 
+## Chat & Privacy
+
+- **Hide Opponent** - choose when your opponent is hidden: never, in game, or always.
+- **Hide Elo** - choose whose Elo is hidden: off, own, opponents, or all.
+- **Disable Chat** - turns off chat. Advancements are still shown.
+
 ## Utility
 
 **Clear old worlds** is enabled by default. **Worlds to keep** sets how many recent Draftout worlds remain, with a default of 5.

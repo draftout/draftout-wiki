@@ -14,6 +14,8 @@ Play several Competitive matches to get placed and receive your rating. This usu
 
 Rating changes are larger early on while the Glicko-2 system "learns" your skill level, and they are lower as you play more matches.
 
+Since v1.18.0, rating changes are about twice as large as before. This only applies to matches played after the update.
+
 Game score (e.g. winning 13-12 vs 13-5) does NOT affect the rating change.
 
 ## Rank tiers
@@ -40,6 +42,15 @@ That window starts at 10 ranks and 50 rating, expanding to 200 ranks and 300 rat
 Glicko-2 was introduced with the v1.16.0 update and rating reset. View current standings on the [leaderboard](https://draftoutmc.com/leaderboard).
 
 The [previous era's leaderboard](https://draftoutmc.com/leaderboard?era=1) (using Elo system) remains available for historical results. It uses the old ratings and ranks.
+
+### Inactive players
+
+Inactive players are hidden from the leaderboard and are not considered for tournaments. You count as inactive if either of these applies:
+
+- You haven't played a match in the last 7 days.
+- You played fewer than 5 matches in the last 14 days.
+
+There is no rating decay, but your rating changes will be larger for your next few matches after a period of inactivity.
 
 ## Read more
 
